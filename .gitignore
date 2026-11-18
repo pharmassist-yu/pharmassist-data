@@ -1,0 +1,22 @@
+# İndirilen belgeler ve üretilen çıktılar
+ornek/
+pdfs/
+cikti/
+*.[pP][dD][fF]
+*.[cC][sS][vV]
+*.[jJ][sS][oO][nN]
+*.[tT][xX][tT]
+kubkt_sayfa.html
+
+# Yerel Python ortamı
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Yerel sırlar ve anahtarlar
+.env
+.env.*
+*.pem
+*.key
