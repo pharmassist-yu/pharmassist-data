@@ -1,0 +1,108 @@
+{
+  "file": "S09_KUB.pdf",
+  "sha256": "71159a51d2392b42bda12d4bd4e68f3e40f8ba881172f820470abc672b6564dd",
+  "stats": {
+    "pages": 20,
+    "chars": 39361,
+    "chars_per_page": 1968,
+    "images": 7,
+    "tables_detected": 6,
+    "likely_scanned": false,
+    "ocr_pages": [],
+    "removed_header_footer_patterns": [
+      "#"
+    ]
+  },
+  "sections_found": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "4.1",
+    "4.2",
+    "4.3",
+    "4.4",
+    "4.5",
+    "4.6",
+    "4.7",
+    "4.8",
+    "4.9",
+    "5",
+    "6",
+    "6.1",
+    "6.2",
+    "6.3",
+    "7"
+  ],
+  "sections_missing": [],
+  "product_name": "AUGMENTİN-BID 400 mg+57 mg/5 ml fort oral süspansiyon hazırlamak için kuru toz",
+  "active_block": "Her 5 ml’de:\nAmoksisilin (459,17 mg amoksisilin trihidrat olarak) ................................ 400 mg\n*Klavulanik asit (67,90 mg potasyum klavulanat olarak). ........................... 57 mg\n*Üretiminde inek sütünden elde edilen hammadde kullanılmaktadır.",
+  "per_basis": "5 ml",
+  "actives": [
+    {
+      "name_raw": "Amoksisilin",
+      "strength_value": "400",
+      "strength_unit": "mg",
+      "per": null,
+      "salt_or_equivalence_note": "459,17 mg amoksisilin trihidrat olarak",
+      "line": "Amoksisilin (459,17 mg amoksisilin trihidrat olarak) ................................ 400 mg"
+    },
+    {
+      "name_raw": "Klavulanik asit",
+      "strength_value": "57",
+      "strength_unit": "mg",
+      "per": null,
+      "salt_or_equivalence_note": "67,90 mg potasyum klavulanat olarak",
+      "line": "*Klavulanik asit (67,90 mg potasyum klavulanat olarak). ........................... 57 mg"
+    }
+  ],
+  "known_effect_excipients": [
+    "Aspartam 12,50 mg",
+    "Portakal esansı 1281 (61027E) 15,00 mg",
+    "Portakal esansı 1282 (9/027108). 11,25 mg",
+    "Ahududu esansı (07943 1286) 22,50 mg",
+    "Golden şurup esansı (1283 052927/Ap0551). 23,75 mg"
+  ],
+  "pharmaceutical_form": "Süspansiyon hazırlamak için kuru toz",
+  "form_source": "KÜB 3 first line",
+  "routes": [
+    "ORAL"
+  ],
+  "route_source": "KÜB 4.2 Uygulama şekli",
+  "excipients": [
+    "Ksantan sakızı",
+    "Aspartam",
+    "Süksinik asit",
+    "Aerosil 200",
+    "Hidroksipropilmetilselüloz",
+    "Portakal esansı 1281 (61027E) (üretiminde kunduz koku bezi kullanılmaktadır)",
+    "Portakal esansı 1282 (9/027108) (üretiminde kunduz koku bezi kullanılmaktadır)",
+    "Ahududu esansı (07943 1286)",
+    "Golden şurup esansı (1283 052927/Ap0551)",
+    "Silikon dioksit"
+  ],
+  "contraindications_text": "Etkin maddelere, penisilinlerden herhangi birine ya da bölüm 6.1’de listelenen yardımcı\nmaddelerin herhangi birine aşırı duyarlılığı olanlarda kontrendikedir.\nAUGMENTİN, diğer beta-laktam ajanlara karşı (örn. sefalosporin, karbapenem veya\nmonobaktam) aşırı duyarlılık hikayesi (örn. anafilaksi) olanlarda kontrendikedir.\nGeçmişinde AUGMENTİN’e bağlı sarılık/karaciğer fonksiyon bozukluğu hikayesi olan\nhastalarda kontrendikedir (bkz. Bölüm 4.8).",
+  "contraindication_items": [
+    "Etkin maddelere, penisilinlerden herhangi birine ya da bölüm 6.1’de listelenen yardımcı maddelerin herhangi birine aşırı duyarlılığı olanlarda kontrendikedir.",
+    "AUGMENTİN, diğer beta-laktam ajanlara karşı (örn. sefalosporin, karbapenem veya monobaktam) aşırı duyarlılık hikayesi (örn. anafilaksi) olanlarda kontrendikedir.",
+    "Geçmişinde AUGMENTİN’e bağlı sarılık/karaciğer fonksiyon bozukluğu hikayesi olan hastalarda kontrendikedir (bkz. Bölüm 4.8)."
+  ],
+  "interactions_text": "Probenesid\nProbenesid ile birlikte kullanımı önerilmemektedir. Probenesid amoksisilinin renal tübüler\nsekresyonunu azaltır. Probenesidin AUGMENTİN ile birlikte kullanımı amoksisilinin kan\nseviyelerinin artışına ve kanda bulunma süresinin uzamasına neden olabilirken, bu durum\nklavulanik asit için görülmez.\nAllopurinol\nAmoksisilin tedavisi sırasında allopurinol kullanımı alerjik cilt reaksiyonları olasılığını\nartırabilir. Allopurinol ve AUGMENTİN’in birlikte kullanımına ait veri bulunmamaktadır.\nOral kontraseptifler\nDiğer antibiyotiklerde de olduğu gibi AUGMENTİN, bağırsak florasını etkileyebilir. Bu\ndurum östrojen reabsorpsiyonunun azalmasına yol açar ve kombine oral kontraseptiflerin\netkililiğini azaltır.\nOral antikoagülanlar\nOral antikoagülanlar ve penisilin antibiyotikleri etkileşim raporlanmadan pratikte yaygın\nolarak kullanılmıştır. Buna karşın, literatürde, asenokumarol veya varfarin kullanan ve bir kür\namoksisilin tedavisi verilen bazı hastalarda uluslararası normalleştirilmiş oran (INR)\ndeğerinde seyrek olarak yükselme görülen vakalar bildirilmiştir. Eğer birlikte kullanılması\ngerekli ise, amoksisilin kullanımının başlatılması veya bırakılması sürecinde protrombin\nzamanı veya INR değeri dikkatle takip edilmelidir. Ayrıca, oral antikoagülanların dozunda\nayarlamalar gerekebilir (bkz. bölüm 4.4 ve 4.8).\nMetotreksat\nPenisilinler metotreksatın atılımını azaltabilir ve bu durum toksisitede potansiyel bir artışa\nneden olur.\nMikofenolat mofetil\nMikofenolat mofetil alan hastalarda, oral amoksisilin ve klavulanik asit başlatılmasını takiben\naktif metabolit mikofenolik asidin doz öncesi konsantrasyonunda yaklaşık %50’lik bir azalma\nbildirilmiştir. Doz öncesi düzeydeki değişim, genel metabolik mikofenolik asit\nmaruziyetindeki değişimleri doğru şekilde temsil etmeyebilir. Bu nedenle, mikofenolat\nmofetil dozunda bir değişiklik graft fonksiyon bozukluğuna ilişkin klinik kanıt yokluğunda\nnormalde gerekli olmamalıdır. Bununla birlikte, kombinasyon sırasında ve antibiyotik\ntedavisinden kısa süre sonra yakın klinik takip yürütülmelidir.\nÖzel popülasyonlara ilişkin ek bilgiler:\nVeri bulunmamaktadır.\nPediyatrik popülasyon:\nYukarıda verilen bilgiler pediyatrik popülasyon için geçerlidir.",
+  "interactions_chars": 2211,
+  "seconds": 1.07,
+  "kt_active_line": "Her 5 ml’de 400 mg amoksisilin aktivitesine eşdeğer 459,17 mg\namoksisilin trihidrat ve 57 mg klavulanik asit aktivitesine eşdeğer 67,90 mg potasyum\nklavulanat (üretiminde inek sütünden elde edilen hammadde kullanılmaktadır.) içerir.\n• Yardımcı maddeler: Ksantan sakızı, aspartam, süksinik asit, Aerosil 200,\nhidroksipropilmetilselüloz, portakal esansı 1281 (61027E, üretiminde kunduz koku\nbezi kullan",
+  "kt_excipient_line": "Ksantan sakızı, aspartam, süksinik asit, Aerosil 200, hidroksipropilmetilselüloz, portakal esansı 1281 (61027E, üretiminde kunduz koku bezi kullanılmaktadır), portakal esansı 1282 (9/027108, üretiminde kunduz koku bezi kullanılmaktadır), ahududu esansı (07943 1286), golden şurup esansı (1283 052927/Ap0551), silikon dioksit",
+  "kt_stats": {
+    "pages": 12,
+    "chars": 23584,
+    "chars_per_page": 1965,
+    "images": 7,
+    "tables_detected": 2,
+    "likely_scanned": false,
+    "ocr_pages": [],
+    "removed_header_footer_patterns": [
+      "#"
+    ]
+  },
+  "sample_id": "S09"
+}
