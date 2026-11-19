@@ -1,0 +1,87 @@
+{
+  "file": "S01_KUB.pdf",
+  "sha256": "11bd44b901095994bec73f28f103a4bbe8318d9002dc406ed4a663826b8d0576",
+  "stats": {
+    "pages": 10,
+    "chars": 25672,
+    "chars_per_page": 2567,
+    "images": 0,
+    "tables_detected": 0,
+    "likely_scanned": false,
+    "ocr_pages": [],
+    "removed_header_footer_patterns": [
+      "#"
+    ]
+  },
+  "sections_found": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "4.1",
+    "4.2",
+    "4.3",
+    "4.4",
+    "4.5",
+    "4.6",
+    "4.7",
+    "4.8",
+    "4.9",
+    "5",
+    "6",
+    "6.1",
+    "6.2",
+    "6.3",
+    "7"
+  ],
+  "sections_missing": [],
+  "product_name": "PAROL 500 mg tablet",
+  "active_block": "500 mg parasetamol",
+  "per_basis": "PER_UNIT_DOSE (1 tablet)",
+  "actives": [
+    {
+      "name_raw": "parasetamol",
+      "strength_value": "500",
+      "strength_unit": "mg",
+      "per": null,
+      "salt_or_equivalence_note": null,
+      "line": "500 mg parasetamol"
+    }
+  ],
+  "known_effect_excipients": [],
+  "pharmaceutical_form": "Tablet",
+  "form_source": "KÜB 3 first line",
+  "routes": [
+    "ORAL"
+  ],
+  "route_source": "KÜB 4.2 Uygulama şekli",
+  "excipients": [
+    "Mikrokristalin selüloz",
+    "Povidon K-30",
+    "Mısır nişastası",
+    "Stearik asit"
+  ],
+  "contraindications_text": "- Parasetamol ya da diğer bileşenlerden herhangi birine aşırı duyarlılık,\n- Şiddetli karaciğer yetmezliği (Child-Pugh kategorisi >9) ve böbrek yetmezliği",
+  "contraindication_items": [
+    "Parasetamol ya da diğer bileşenlerden herhangi birine aşırı duyarlılık,",
+    "Şiddetli karaciğer yetmezliği (Child-Pugh kategorisi >9) ve böbrek yetmezliği"
+  ],
+  "interactions_text": "Propantelin gibi mide boşalmasını yavaşlatan ilaçlar, parasetamolün yavaş emilmesine ve\ndolayısıyla parasetamolün etkisinin daha geç ortaya çıkmasına neden olabilir.\nMetoklopramid gibi mide boşalmasını hızlandıran ilaçlar, parasetamolün daha hızlı emilmesine\nve dolayısıyla parasetamolün etkisinin daha hızlı başlamasına neden olabilir.\nBazı hipnotikler ve antiepileptik ilaçlar (glutetimid, fenobarbital, fenitoin, karbamazepin, vb.)\nveya rifampisin gibi, karaciğerde hepatik mikrozomal enzim indüksiyonuna sebep olan ilaçların,\ntek başına kullanıldığında zararsız olan parasetamol dozlarıyla eşzamanlı kullanımı karaciğer\nhasarına yol açabilir. Aşırı alkol tüketimi halinde, terapötik dozlarda bile parasetamol alınması\nda karaciğer hasarına neden olabilir.\nParasetamolün kloramfenikol ile kombinasyon halinde kullanılması, kloramfenikolün yarılanma\nömrünü uzatabilir ve dolayısıyla, bu ilacın toksisite riskini artırabilir.\nParasetamol (veya metabolitleri), K vitaminine bağımlı koagülasyon faktörü sentezinde rol\noynayan enzimler ile etkileşir. Parasetamol ile varfarin veya kumarin türevleri arasındaki\netkileşimler, “uluslararası normalleştirilmiş oran” (International Normalized Ratio, INR)\ndeğerinde bir artışa ve kanama riskinde bir artışa neden olabilir; arada bir tek seferlik ya da\nbirkaç dozluk kullanımda kanama üzerine belirgin bir etki beklenmemektedir. Bundan dolayı,\noral antikoagülan kullanan hastalar, tıbbi denetim ve kontrol olmadan uzun süreli parasetamol\nkullanmamalıdır.\n5-hidroksitriptamin (serotonin) tip 3 reseptör antagonistleri olan tropisetron ve granisetron,\nfarmakodinamik etkileşim ile parasetamolün analjezik etkisini tamamen baskılayabilir.\nParasetamol ve azidotimidinin (AZT - zidovudin) eşzamanlı kullanılması, nötropeni eğilimini\nartırır. Bu nedenle tıbbi tavsiye olmadıkça, parasetamol AZT ile birlikte alınmamalıdır.\nBirden fazla ağrı kesiciyle kombinasyon tedavisinden kaçınılması önerilmektedir. Bunun\nhastaya ekstra bir fayda sağladığını gösteren çok az kanıt vardır ve genelde istenmeyen etkilerde\nartışa yol açmaktadır.\nParasetamol emilim hızı metoklopramid ya da domperidon ile artabilir ve kolestiramin ile\nazalabilir.\nSt. John’s Wort (Hypericum perforatum -sarı kantaron) parasetamolün kan düzeylerini\nazaltabilir.\nBesinler ile birlikte alındığında parasetamolün emilim hızı azalabilir.\nÖzel popülasyonlara ilişkin ek bilgiler\nVeri yoktur.\nPediyatrik popülasyon:\nVeri yoktur.",
+  "interactions_chars": 2424,
+  "seconds": 0.6,
+  "kt_active_line": "500 mg parasetamol\n• Yardımcı maddeler: Mikrokristalin selüloz, povidon K-30, mısır nişastası, stearik asit.\nBu ilacı kullanmaya başlamadan önce bu KULLANMA TALİMATINI dikkatlice\nokuyunuz, çünkü sizin için önemli bilgiler içermektedir.\n• Bu kullanma talimatını saklayınız. Daha sonra tekrar okumaya ihtiyaç duyabilirsiniz.\n• Eğer ilave sorularınız olursa, lütfen doktorunuza veya eczacınıza danışınız",
+  "kt_excipient_line": "Mikrokristalin selüloz, povidon K-30, mısır nişastası, stearik asit.",
+  "kt_stats": {
+    "pages": 6,
+    "chars": 14043,
+    "chars_per_page": 2340,
+    "images": 0,
+    "tables_detected": 2,
+    "likely_scanned": false,
+    "ocr_pages": [],
+    "removed_header_footer_patterns": [
+      "#"
+    ]
+  },
+  "sample_id": "S01"
+}

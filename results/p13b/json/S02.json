@@ -1,0 +1,100 @@
+{
+  "file": "S02_KUB.pdf",
+  "sha256": "826196ac55f45a9f765a817e3b88e980d45faf296804b664989387256e58dbed",
+  "stats": {
+    "pages": 13,
+    "chars": 31824,
+    "chars_per_page": 2448,
+    "images": 0,
+    "tables_detected": 14,
+    "likely_scanned": false,
+    "ocr_pages": [],
+    "removed_header_footer_patterns": [
+      "#"
+    ]
+  },
+  "sections_found": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "4.1",
+    "4.2",
+    "4.3",
+    "4.4",
+    "4.5",
+    "4.6",
+    "4.7",
+    "4.8",
+    "4.9",
+    "5",
+    "6",
+    "6.1",
+    "6.2",
+    "6.3",
+    "7"
+  ],
+  "sections_missing": [],
+  "product_name": "PAROL 120 mg / 5 mL Oral Süspansiyon",
+  "active_block": "Bir ölçek (5 mL), 120 mg parasetamol içerir.",
+  "per_basis": "5 ml",
+  "actives": [
+    {
+      "name_raw": "parasetamol",
+      "strength_value": "120",
+      "strength_unit": "mg",
+      "per": null,
+      "salt_or_equivalence_note": null,
+      "line": "120 mg parasetamol içerir."
+    }
+  ],
+  "known_effect_excipients": [
+    "Metilparahidroksibenzoat 5,4 mg",
+    "Sodyum Sakkarin 5 mg",
+    "Karboksimetil selüloz sodyum 11,233 mg",
+    "Gliserin 750 mg",
+    "Sükroz 2500 mg",
+    "Günbatımı sarısı 0,5 mg"
+  ],
+  "pharmaceutical_form": "Süspansiyon",
+  "form_source": "KÜB 3 first line",
+  "routes": [
+    "ORAL"
+  ],
+  "route_source": "KÜB 4.2 Uygulama şekli",
+  "excipients": [
+    "Metilparahidroksibenzoat",
+    "Sodyum Sakkarin",
+    "Sükroz",
+    "Karboksimetilselüloz sodyum",
+    "Avicel RC 581",
+    "Gliserin",
+    "Tween 80",
+    "Portakal Esansı",
+    "Günbatımı sarısı E 110",
+    "Distile Su"
+  ],
+  "contraindications_text": "PAROL,\n• Parasetamol veya bileşenlerinden herhangi birine aşırı duyarlılık durumunda veya,\n• Şiddetli karaciğer (Child Pugh kategorisi >9) ve böbrek yetmezliğinde (GFR <60\nmL/min) kontrendikedir.",
+  "contraindication_items": [
+    "Parasetamol veya bileşenlerinden herhangi birine aşırı duyarlılık durumunda veya,",
+    "Şiddetli karaciğer (Child Pugh kategorisi >9) ve böbrek yetmezliğinde (GFR <60 mL/min) kontrendikedir."
+  ],
+  "interactions_text": "Propantelin gibi mide boşalmasını yavaşlatan ilaçlar, parasetamolün yavaş emilmesine ve\ndolayısıyla parasetamolün etkisinin daha geç ortaya çıkmasına neden olabilir.\nMetoklopramid gibi mide boşalmasını hızlandıran ilaçlar, parasetamolün daha hızlı\nemilmesine ve dolayısıyla parasetamolün etkisinin daha hızlı başlamasına neden olabilir.\nHepatik mikrozomal enzimleri indükleyen antikonvülsanlar veya oral kontraseptifler gibi\nilaçların kullanımı, parasetamolün metabolize olma ölçüsünü artırarak ilacın plazma\nkonsantrasyonlarında azalmaya ve hızlı eliminasyon hızına yol açabilir.\nBazı hipnotikler ve antiepileptik ilaçlar (glutetimid, fenonarbital, fenitoin, karbamazepin, vb.)\nveya rifampisin gibi karaciğerde hepatik mikrozomal enzim indüksiyonuna sebep olan\nilaçların tek başına kullanıldığında zararsız olan parasetamol dozlarıyla eşzamanlı kullanımı\nkaraciğer hasarına yol açabilir. Aşırı alkol tüketimi halinde, terapötik dozlarda bile\nparasetamol alınması da karaciğer hasarına neden olabilir.\nAşırı dozda parasetamol alan bir hastada bildirilen akut pankreatite kronik alkol alımı katkıda\nbulunmuş olabilir. Akut alkol alımı kişinin yüksek parasetamol dozları metabolize etme\nbecerisini azaltabilir; parasetamolün plazma yarılanma ömrü uzayabilir.\nParasetamolün kloramfenikol ile kombinasyon halinde kullanılması, kloramfenikolün\nyarılanma ömrünü uzatabilir ve dolayısıyla bu ilacın toksisite riskini arttırabilir.\nParasetamol (veya metabolitleri), K vitamine bağımlı koagülasyon faktörü sentezinde rol\noynayan enzimler ile etkileşir. Parasetamol ile varfarin veya kumarin türevleri arasındaki\netkileşimler, “uluslararası normalleştirilmiş oran” (International Normalized Ratio, INR)\ndeğerinde bir artışa ve kanama riskinde bir artışa neden olabilir. Bundan dolayı, oral\nantikoagülan kullanan hastalar, tıbbi denetim ve kontrol olmadan uzun süreli parasetamol\nkullanmamalıdır.\n5-hidroksitriptamin (serotonin) tip 3 reseptör antagonistleri olan tropisetron ve granisetron,\nfarmakodinamik etkileşim ile parasetamolün analjezik etkisini tamamen baskılayabilir.\nParasetamol ve azidotimidin (AZT-zidovudin) eşzamanlı kullanılması nötropeni eğilimini\narttırır. Bu nedenle tıbbi tavsiye olmadıkça, parasetamol AZT ile birlikte alınmamalıdır.\nBirden fazla ağrı kesiciyle kombinasyon tedavisinden kaçınılması önerilmektedir. Bunun\nhastaya ekstra bir fayda sağladığını gösteren çok az kanıt vardır ve genelde istenmeyen\netkilerde artışa yol açmaktadır.\nParasetamol emilim hızı metoklopramid ya da domperidon ile artabilir ve kolestiramin ile\nazalabilir.\nParasetamol, flukloksasilin ile eş zamanlı kullanıldığında dikkatli olunmalıdır, çünkü eş\nzamanlı kullanımın, özellikle risk faktörleri olan hastalarda, piroglutamik asidoz nedeniyle\nyüksek anyon açıklığına sahip metabolik asidozla ilişkili olduğu gösterilmiştir (bkz. Bölüm\n4.4).\nSt. John’s Wort (Hypericum perforatum–sarı kantaron) parasetamolün kan düzeylerini\nazaltabilir.\nBesinler ile birlikte alındığında parasetamolün emilim hızı azalabilir.",
+  "interactions_chars": 3001,
+  "seconds": 0.77,
+  "kt_active_line": "Bir ölçek (5mL), 120 mg parasetamol içerir.",
+  "kt_excipient_line": "Sodyum sakkarin, metilparahidroksibenzoat (E218), sükroz, karboksi metilselüloz sodyum, avicel RC 581, gliserin, Tween 80, günbatımı sarısı E 110, portakal esansı, distile su.",
+  "kt_stats": {
+    "pages": 9,
+    "chars": 19285,
+    "chars_per_page": 2143,
+    "images": 0,
+    "tables_detected": 0,
+    "likely_scanned": false,
+    "ocr_pages": [],
+    "removed_header_footer_patterns": [
+      "#"
+    ]
+  },
+  "sample_id": "S02"
+}
