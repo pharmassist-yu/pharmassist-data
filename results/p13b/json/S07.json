@@ -1,0 +1,104 @@
+{
+  "file": "S07_KUB.pdf",
+  "sha256": "e709f59cc80ee307d0a41f76e9055d8875aee6dc1a81c6e0225ffb885a72385a",
+  "stats": {
+    "pages": 16,
+    "chars": 30661,
+    "chars_per_page": 1916,
+    "images": 0,
+    "tables_detected": 8,
+    "likely_scanned": false,
+    "ocr_pages": [],
+    "removed_header_footer_patterns": [
+      "#"
+    ]
+  },
+  "sections_found": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "4.1",
+    "4.2",
+    "4.3",
+    "4.4",
+    "4.5",
+    "4.6",
+    "4.7",
+    "4.8",
+    "4.9",
+    "5",
+    "6",
+    "6.1",
+    "6.2",
+    "6.3",
+    "7"
+  ],
+  "sections_missing": [],
+  "product_name": "AUGMENTİN 500 mg/125 mg film kaplı tablet",
+  "active_block": "Her tablette:\nAmoksisilin (INN). ................................500 mg (573,96 mg amoksisilin trihidrat)\nKlavulanik asit (INN). ......................... 125 mg (148,91 mg potasyum klavulanat*)\n*Üretiminde inek sütünden elde edilen hammadde kullanılmaktadır.",
+  "per_basis": "1 tablet",
+  "actives": [
+    {
+      "name_raw": "Amoksisilin",
+      "strength_value": "500",
+      "strength_unit": "mg",
+      "per": null,
+      "salt_or_equivalence_note": "573,96 mg amoksisilin trihidrat",
+      "line": "Amoksisilin (INN). ................................500 mg (573,96 mg amoksisilin trihidrat)"
+    },
+    {
+      "name_raw": "Klavulanik asit",
+      "strength_value": "125",
+      "strength_unit": "mg",
+      "per": null,
+      "salt_or_equivalence_note": "148,91 mg potasyum klavulanat*",
+      "line": "Klavulanik asit (INN). ......................... 125 mg (148,91 mg potasyum klavulanat*)"
+    }
+  ],
+  "known_effect_excipients": [
+    "Sodyum nişasta glikolat tip A 21 mg"
+  ],
+  "pharmaceutical_form": "Film Kaplı Tablet",
+  "form_source": "KÜB 3 first line",
+  "routes": [
+    "ORAL"
+  ],
+  "route_source": "KÜB 4.2 Uygulama şekli",
+  "excipients": [
+    "Susuz kolloidal silika",
+    "Sodyum nişasta glikolat tip A",
+    "Magnezyum stearat",
+    "Mikrokristalin selüloz",
+    "Titanyum dioksit (E171)",
+    "Hipromelloz (5 cps)",
+    "Hipromelloz (15 cps)",
+    "Makrogol 4000",
+    "Makrogol 6000",
+    "Dimetikon 500"
+  ],
+  "contraindications_text": "Etkin maddelere, penisilinlerden herhangi birine ya da bölüm 6.1’de listelenen yardımcı\nmaddelerin herhangi birine aşırı duyarlılığı olanlarda kontrendikedir.\nAUGMENTİN, diğer beta-laktam ajanlara karşı (örn. sefalosporin, karbapenem veya\nmonobaktam) aşırı duyarlılık hikayesi (örn. anafilaksi) olanlarda kontrendikedir.\nGeçmişinde amoksisilin/klavulanik asite bağlı sarılık/hepatik yetmezlik hikayesi olan\nhastalarda kontrendikedir (bkz. Bölüm 4.8).",
+  "contraindication_items": [
+    "Etkin maddelere, penisilinlerden herhangi birine ya da bölüm 6.1’de listelenen yardımcı maddelerin herhangi birine aşırı duyarlılığı olanlarda kontrendikedir.",
+    "AUGMENTİN, diğer beta-laktam ajanlara karşı (örn. sefalosporin, karbapenem veya monobaktam) aşırı duyarlılık hikayesi (örn. anafilaksi) olanlarda kontrendikedir.",
+    "Geçmişinde amoksisilin/klavulanik asite bağlı sarılık/hepatik yetmezlik hikayesi olan hastalarda kontrendikedir (bkz. Bölüm 4.8)."
+  ],
+  "interactions_text": "Oral antikoagülanlar\nOral antikoagülanlar ve penisilin antibiyotikleri etkileşim raporları olmadan pratikte yaygın\nolarak kullanılmıştır. Buna karşılık literatürde, asenokumarol veya varfarin kullanan ve bir kür\namoksisilin tedavisi verilen bazı hastalarda uluslararası normalleştirilmiş oran (INR)\ndeğerinde seyrek olarak yükselme görülen vakalar bildirilmiştir. Eğer bu birlikte kullanım\ngerekli ise, AUGMENTİN kullanımının veya bırakılması sürecinde protrombin zamanı veya\nINR değeri dikkatle takip edilmelidir. Ayrıca, oral antikoagülanların dozunda ayarlamalar\ngerekebilir (bkz. Bölüm 4.4 ve 4.8).\nMetotreksat\nPenisilinler metotreksatın atılımını azaltabilir ve bu durum toksisitede potansiyel bir artışa\nneden olabilir.\nProbenesid\nProbenesid ile birlikte kullanım önerilmemektedir. Probenesid amoksisilinin renal tübüler\nsekresyonunu azaltır. Probenesidin AUGMENTİN ile birlikte kullanımı amoksisilinin kan\nseviyelerinin artışına ve kanda bulunma süresinin uzamasına neden olabilirken, bu durum\nklavulanik asit için görülmez.\nMikofenolat mofetil\nMikofenolat mofetil alan hastalarda, oral amoksisilin ve klavulanik asit başlatılmasını takiben\naktif metabolit mikofenolik asitin (MPA) doz öncesi konsantrasyonunda yaklaşık %50’lik bir\nazalma bildirilmiştir.\nDoz öncesi düzeydeki değişim genel MPA maruziyetindeki değişiklikleri doğru şekilde\nyansıtmayabilir. Bu nedenle, greft disfonksiyonunun klinik kanıtı olmadığında normalde\nmikofenolat mofetil dozunda bir değişiklik gerekli değildir. Bununla birlikte, kombinasyon\nsırasında ve antibiyotik tedavisinden hemen sonra yakın klinik takip yapılmalıdır.\nAllopurinol\nAmoksisilin tedavisi esnasında allopurinol kullanımı alerjik cilt reaksiyonları olasılığını\nartırabilir. Allopurinol ve AUGMENTİN’in birlikte kullanımına ait veri bulunmamaktadır.\nOral kontraseptifler\nDiğer antibiyotiklerde de olduğu gibi AUGMENTİN, bağırsak florasını etkileyebilir. Bu\ndurum östrojen reabsorpsiyonunun azalmasına yol açar ve kombine oral kontraseptiflerin\netkililiğini azaltır.\nÖzel popülasyonlara ilişkin ek bilgiler\nVeri bulunmamaktadır.\nPediyatrik popülasyon\nVeri bulunmamaktadır.",
+  "interactions_chars": 2120,
+  "seconds": 0.75,
+  "kt_active_line": "Her tablette; 500 mg amoksisiline eşdeğer 573,96 mg amoksisilin trihidrat ve\n125 mg klavulanik aside eşdeğer 148,91 mg potasyum klavulanat (üretiminde inek sütünden\nelde edilen hammadde kullanılmaktadır) içerir.",
+  "kt_excipient_line": "Susuz kolloidal silika, sodyum nişasta glikolat tip A, magnezyum stearat, mikrokristalin selüloz. Film kaplama materyali; titanyum dioksit (E171), hipromelloz (5 cps), hipromelloz (15 cps), makrogol 4000, makrogol 6000, dimetikon 500 içerir.",
+  "kt_stats": {
+    "pages": 9,
+    "chars": 19244,
+    "chars_per_page": 2138,
+    "images": 0,
+    "tables_detected": 0,
+    "likely_scanned": false,
+    "ocr_pages": [],
+    "removed_header_footer_patterns": [
+      "#"
+    ]
+  },
+  "sample_id": "S07"
+}

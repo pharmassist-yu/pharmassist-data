@@ -1,0 +1,91 @@
+{
+  "file": "S06_KUB.pdf",
+  "sha256": "b08e264340e4ae7c6f386c2c0066ebe75cafb07d3f949f7da593c5cdf1ddef1a",
+  "stats": {
+    "pages": 11,
+    "chars": 25834,
+    "chars_per_page": 2349,
+    "images": 0,
+    "tables_detected": 6,
+    "likely_scanned": false,
+    "ocr_pages": [],
+    "removed_header_footer_patterns": [
+      "#"
+    ]
+  },
+  "sections_found": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "4.1",
+    "4.2",
+    "4.3",
+    "4.4",
+    "4.5",
+    "4.6",
+    "4.7",
+    "4.8",
+    "4.9",
+    "5",
+    "6",
+    "6.1",
+    "6.2",
+    "6.3",
+    "7"
+  ],
+  "sections_missing": [],
+  "product_name": "PAROL 10mg/ml İnfüzyon İçin Çözelti İçeren Flakon",
+  "active_block": "Parasetamol……10mg/ml",
+  "per_basis": "1 ml",
+  "actives": [
+    {
+      "name_raw": "Parasetamol",
+      "strength_value": "10",
+      "strength_unit": "mg",
+      "per": "1 ml",
+      "salt_or_equivalence_note": null,
+      "line": "Parasetamol……10mg/ml"
+    }
+  ],
+  "known_effect_excipients": [
+    "Disodyum fosfat dihidrat 0.130mg/ml",
+    "Mannitol 38.5mg/ml"
+  ],
+  "pharmaceutical_form": "İnfüzyon çözeltisi",
+  "form_source": "KÜB 3 first line",
+  "routes": [
+    "INTRAVENOUS"
+  ],
+  "route_source": "KÜB 3 form",
+  "excipients": [
+    "Mannitol",
+    "Sistein hidroklorür monohidrat",
+    "Disodyum fosfat dihidrat",
+    "Sodyum hidroksit",
+    "Enjeksiyonluk su"
+  ],
+  "contraindications_text": "PAROL aşağıdaki durumlarda kontrendikedir:\n• Parasetamol, proparasetamol hidroklorür (parasetamolün önilacı) veya diğer bileşenlerine\nkarşı alerjisi olanlarda,\n• Ciddi karaciğer yetmezliği veya aktif karaciğer hastalığı durumunda,",
+  "contraindication_items": [
+    "Parasetamol, proparasetamol hidroklorür (parasetamolün önilacı) veya diğer bileşenlerine karşı alerjisi olanlarda,",
+    "Ciddi karaciğer yetmezliği veya aktif karaciğer hastalığı durumunda,"
+  ],
+  "interactions_text": "PAROL diğer ilaçlar ile birlikte uygulandığında istenmeyen etkilerin oluşma riskini\narttırabilir.\nFenitoin ile eşzamanlı uygulanması parasetamolün etkililiğini azaltabilir ve hepatotoksiste\nriskini arttırabilir. Fenitoin tedavisi alan hastalarda yüksek dozlarda ve/veya kronik\nparasetamol uygulamasından kaçınılmalıdır. Hastalar hepatotoksiste açısından takip\nedilmelidir.\nProbenesid, glukuronik asit ile konjugasyonunu inhibe ederek parasetamolün klerensini\nyaklaşık 2 katı azaltır. Probenesid ile birlikte tedavide parasetamol dozunun azaltılması\ndüşünülmelidir.\nSalisilamid parasetamolün eliminasyon yarı ömrünü uzatabilir. Kısa süreli kullanımda\nparasetamol ve salisilatların kombine dozunun tek başına önerilen parasetamol veya salisilat\ndozunu aşmaması önerilir. Diflünizal, parasetamolün plazma konsantrasyonunu % 50\nartırarak parasetamole bağlı hepatotoksisite riskini artırabilir.\nEnzim indükleyen maddelerin, birlikte alımında dikkatli olunmalıdır. Bu maddeler arasında\nbarbitüratlar, izoniazid, antikoagülanlar, zidovudin, amoksisilin+klavulanik asit ve etanol\nsayılabilir ancak bunlarla sınırlı değildir.\nFenitoin, barbitüratlar, karbamazepin gibi antikonvülsanlar, parasetamolün hepatotoksik\nmetabolitlere dönüşümünün artması nedeniyle parasetamole bağlı karaciğer toksisitesini\nartırabilir. Antikonvülsan kullanımı sırasında önerilen dozların üzerinde parasetamol alan\nhastalarda parasetamole bağlı hepatik toksisite riski artar.\nAşırı alkol tüketiminin parasetamole bağlı hepatotoksisite riskini arttırdığına dair bir takım\nveriler olduğundan, kronik alkolikler parasetamolün düzenli ve aşırı kullanımı veya kronik\nalkol tüketiminden sakınmaları konusunda uyarılmalıdırlar.\nParasetamolün uzun süre yüksek dozda antikoagülanlarla (kumarin veya indandion türevi)\nbirlikte kullanılması, büyük ihtimalle prokoagülan faktörlerin hepatik sentezinin azalmasına\nbağlı olarak antikoagülan etkiyi artırabilir. Uzun süreli, yüksek dozda parasetamol tedavisi\nbaşlatıldığında veya sona erdirildiğinde protrombin zamanının artışı izlenirse antikoagülan\ndoz ayarlaması gerekli olabilir. Bu durum nadiren kullanımda veya 2 g/gün’ün altındaki\nkronik kullanılan dozlar için geçerli değildir.\nEtkileşiminin mekanizması tam olarak bilinmemekle birlikte, izoniyazidin parasetamol ile\nbirlikte kullanımı hepatotoksisite riskinin artmasına neden olabilir.\nPAROL diğer ilaçlar ile birlikte uygulandığında istenmeyen etkilerin oluşma riskini\narttırabilir.\nAntikoagülanlar: Parasetamol enjeksiyonunun (günde 4 gr, en az 4 gün) oral antikoagülanlar\nile birlikte kullanılması INR değerlerinde sapmalara neden olabilir. Bu nedenle, ilacın birlikte\nkullanıldığı süre boyunca ve Parasetamol enjeksiyonu ile tedavi tamamlandıktan 1 hafta\nsonrasına kadar INR değerleri yakından izlenmelidir.",
+  "interactions_chars": 2773,
+  "seconds": 0.62,
+  "kt_active_line": "Her 1 ml çözelti 10 mg parasetamol içerir.\n• Yardımcı maddeler: Mannitol, sistein hidroklorür monohidrat, disodyum fosfat\ndihidrat, sodyum hidroksit, enjeksiyonluk su\nBu ilacı kullanmaya başlamadan önce bu KULLANMA TALİMATINI dikkatlice\nokuyunuz, çünkü sizin için önemli bilgiler içermektedir.\n• Bu kullanma talimatını saklayınız. Daha sonra tekrar okumaya ihtiyaç duyabilirsiniz.\n• Eğer ilave sorula",
+  "kt_excipient_line": "Mannitol, sistein hidroklorür monohidrat, disodyum fosfat dihidrat, sodyum hidroksit, enjeksiyonluk su",
+  "kt_stats": {
+    "pages": 9,
+    "chars": 18079,
+    "chars_per_page": 2009,
+    "images": 0,
+    "tables_detected": 9,
+    "likely_scanned": false,
+    "ocr_pages": [],
+    "removed_header_footer_patterns": [
+      "# / #"
+    ]
+  },
+  "sample_id": "S06"
+}

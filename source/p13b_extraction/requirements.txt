@@ -1,0 +1,2 @@
+pdfplumber>=0.11
+truststore>=0.9  # only for download_samples.py on Windows

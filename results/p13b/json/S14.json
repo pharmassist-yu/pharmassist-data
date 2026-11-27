@@ -1,0 +1,90 @@
+{
+  "file": "S14_KUB.pdf",
+  "sha256": "e76c003595489bd11437e259a8bce444efa214c98d619beb07d5bddbed45d661",
+  "stats": {
+    "pages": 27,
+    "chars": 71808,
+    "chars_per_page": 2660,
+    "images": 2,
+    "tables_detected": 7,
+    "likely_scanned": false,
+    "ocr_pages": [],
+    "removed_header_footer_patterns": [
+      "# / #"
+    ]
+  },
+  "sections_found": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "4.1",
+    "4.2",
+    "4.3",
+    "4.4",
+    "4.5",
+    "4.6",
+    "4.7",
+    "4.8",
+    "4.9",
+    "5",
+    "6",
+    "6.1",
+    "6.2",
+    "6.3",
+    "7"
+  ],
+  "sections_missing": [],
+  "product_name": "ABILIFY 10 mg tablet",
+  "active_block": "Aripiprazol 10 mg",
+  "per_basis": "PER_UNIT_DOSE (1 tablet)",
+  "actives": [
+    {
+      "name_raw": "Aripiprazol",
+      "strength_value": "10",
+      "strength_unit": "mg",
+      "per": null,
+      "salt_or_equivalence_note": null,
+      "line": "Aripiprazol 10 mg"
+    }
+  ],
+  "known_effect_excipients": [
+    "Laktoz monohidrat (sığır sütü) 62,18 mg"
+  ],
+  "pharmaceutical_form": "Tablet",
+  "form_source": "KÜB 3 first line",
+  "routes": [
+    "ORAL"
+  ],
+  "route_source": "KÜB 4.2 Uygulama şekli",
+  "excipients": [
+    "Laktoz monohidrat (sığır sütü)",
+    "Mısır nişastası",
+    "Mikrokristalin selüloz",
+    "Hidroksipropil selüloz",
+    "Magnezyum stearat",
+    "Kırmızı demir oksit (E172)"
+  ],
+  "contraindications_text": "Aripiprazole veya diğer bileşenlerine karşı alerjisi olanlarda kontrendikedir.",
+  "contraindication_items": [
+    "Aripiprazole veya diğer bileşenlerine karşı alerjisi olanlarda kontrendikedir."
+  ],
+  "interactions_text": "Aripiprazolün santral sinir sistemi üzerindeki sedasyon gibi istenmeyen etkilere sebep olan\n(bkz; bölüm 4.8) birincil etkileri göz önüne alındığında, ABILIFY santral etki gösteren diğer\nilaçlarla veya alkolle birlikte alındığı zaman dikkatli olunmalıdır. Aripiprazol, α -adrenerjik\n1\nreseptör antagonist aktivitesi nedeniyle bazı antihipertansif bileşiklerin etkisini artırma\npotansiyeline sahiptir.\nEğer aripiprazol QT uzaması ya da elektrolit dengesinin bozulmasına sebep olduğu bilinen\nilaçlarla birlikte kullanırsa, dikkatli bir şekilde kullanmalıdır.\nBaşka ilaçların ABILIFY üzerindeki etkisi:\nGastrik asit blokörü ve H2 antagonisti olan famotidin, aripiprazolün emilim hızını\ndüşürmektedir fakat bu etkinin klinik bağlantılı olduğu kabul edilmemektedir.\nAripiprazol, CYP1A enziminden bağımsız ancak CYP2D6 ve CYP3A4 enzimleri\nsorumluluğunda birden fazla yol ile metabolize edilir. Bu sebeple, sigara kullananlar için dozaj\nayarlaması gerekmemektedir.\nKinidin ve diğer güçlü CYP2D6 inhibitörleri:\nSağlıklı gönüllülerde gerçekleştirilen klinik çalışmada, kuvvetli CYP2D6 inhibitörü (kinidin),\nCmaks değişmeden kalırken aripiprazol EAA’sını %107 oranında arttırmıştır. Aktif metabolit\nolan dehidro-aripiprazolün EAA’sı ve Cmaks’ı sırasıyla %32 ve %47 oranında azalmıştır.\nKinidinle birlikte uygulanması durumunda ABILIFY dozu, normal dozun yaklaşık yarısına\nindirilmelidir. Fluoksetin ve paroksetin gibi diğer kuvvetli CYP2D6 (kinidin) inhibitörlerinin\nde benzer etkiler göstermesi beklenir ve bu yüzden benzer doz azaltması uygulanmalıdır.\nKetokonazol ve diğer CYP3A4 inhibitörleri:\nSağlıklı gönüllülerde gerçekleştirilen klinik çalışmada, kuvvetli CYP3A4 (ketokonazol)\ninhibitörü, aripiprazolün EAA’sını ve Cmaks’ını sırasıyla %63 ve %37 oranında arttırmıştır.\nDehidro-aripiprazolün EAA’sı ve Cmaks’ı sırasıyla %77 ve %43 oranında azalmıştır. Zayıf\nCYP2D6 metabolizörleri, kuvvetli CYP3A4 inhibitörü ile birlikte uygulandığında, hızlı\nCYP2D6 metabolizörlerine kıyasla, aripiprazolün yüksek plazma konsantrasyonları ile\nsonuçlanır. ABILIFY’ın ketakonazol ya da diğer kuvvetli CYP3A4 inhibitörleri birlikte\nuygulandığı göz önüne alındığında, hastaya olan potansiyel yararı potansiyel risklerinden daha\nfazla olmalıdır. Ketokonazol ile birlikte uygulanması durumunda ABILIFY dozu, normal\ndozun yaklaşık yarısına indirilmelidir. İtrakonazol ve HIV proteaz inhibitörleri gibi diğer\nkuvvetli CYP3A4 inhibitörlerinin de benzer etkiler göstermesi beklenir ve bu yüzden benzer\ndoz azaltması uygulanmalıdır (bkz; bölüm 4.2).\nCYP2D6 ya da CYP3A4 inhibitörleri kombinasyon tedavisinden çekildiğinde, ABILIFY dozu\neş zamanlı tedaviye başlanmadan önceki seviyeye kadar arttırılmalıdır.\nZayıf CYP3A4 (ör., diltiazem) ya da CYP2D6 (ör., essitalopram) inhibitörleri, ABILIFY ile\nbirlikte uygulandığı zaman, aripiprazol konsantrasyonlarında bir miktar artış görülmesi\nbeklenebilir.\nKarbamazepin ve diğer CYP3A4 indükleyiciler:\nKuvvetli bir CYP3A4 indükleyicisi olan karbamazepin ile birlikte kullanılmasını takiben,\naripiprazolün tek başına (30 mg) uygulanmasına kıyasla aripiprazolün Cmaks ve EAA’sının\ngeometrik ortası sırasıyla %68 ve %73 daha düşüktür. Benzeri şekilde dehidro-aripiprazolün\nCmaks ve EAA’sının karbamazepin ile eş kullanımından sonra geometrik ortası sırasıyla tek\nbaşına aripiprazol tedavisi görenlere göre %69 ve %71 daha düşüktür.\nABILIFY karbamazepin ile birlikte kullanıldığında, ABILIFY dozu iki katına çıkartılmalıdır.\nDiğer kuvvetli CYP3A4 indükleyicilerinin (rifampisin, rifabutin, fenitoin, fenobarbital,\nprimidon, efavirenz, nevirafin ve St. John's Wort gibi) de benzer etkiler göstermesi beklenir ve\nbu yüzden benzer doz artırılması uygulanmalıdır. Kuvvetli CYP3A4 indükleyicileri tedaviden\nçekildiğinde, ABILIFY dozu önerilen doza indirilmelidir.\nValproat ve lityum:\nAripiprazol valproat veya lityum ile birlikte kullanıldığında, klinik bakımdan aripiprazol\nkonsantrasyonunda anlamlı bir değişiklik olmamıştır. Bu sebeple aripiprazol ile valproat veya\nlityumun birlikte kullanımında doz ayarlamasına gerek yoktur.\nABILIFY’ın başka ilaçlar üzerindeki etkisi:\nKlinik çalışmalarda, 10 mg/gün-30 mg/gün dozlarında aripiprazol, CYP2D6 (dekstrometorfan),\nCYP2C9 (varfarin), CYP2C19 (omeprazol, varfarin), ve CYP3A4 (dekstrometorfan)\nsubstratlarının metabolizması üzerinde hiçbir önemli etki göstermemiştir. Ayrıca, aripiprazol\nve dehidro-aripiprazol, CYP1A2’nin aracılığındaki metabolizmayı in vitro olarak\ndeğiştirebilecek bir potansiyel göstermemiştir. Bu nedenle, aripiprazolün klinik olarak önemli\nbir tıbbi ürünle bu enzimlerin aracılık ettiği bir etkileşime girmesi düşük bir ihtimaldir.\nAripiprazol valproat, lityum veya lamotirijin ile beraber kullanıldığında, valproat, lityum veya\nlamotirijin konsantrasyonlarında klinik olarak önemli bir değişiklik meydana gelmemiştir.\nSerotonin sendromu:\nAripiprazol kullanan hastalarda serotonin sendromu vakaları rapor edilmiştir ve bu duruma dair\nbelirti ve bulgular özellikle seçici serotonin gerialım inhibitörü/seçici serotonin noradrenalin\ngerialım inhibitörü (SSRI/SNRI) gibi diğer serotonerjik ilaçlar veya aripiprazol\nkonsantrasyonunu yükselttiği bilinen ilaçlar ile birlikte kullanılan vakalarda gözlenmektedir\n(bkz; bölüm 4.8).\nAlkol: Birçok psikoaktif tedavilerde olduğu gibi hastalara ABILIFY kullanımı sırasında alkol\nalımından kaçınmaları bildirilmelidir.\nÖzel popülasyonlara ilişkin ek bilgiler\nEtkileşim çalışması yapılmamıştır.\nPediyatrik popülasyon:\nEtkileşim çalışması yapılmamıştır.",
+  "interactions_chars": 5464,
+  "seconds": 1.79,
+  "kt_active_line": "Her bir tablet 10 mg aripiprazol içerir.\n• Yardımcı maddeler: Laktoz monohidrat (sığır sütünden elde edilen), mısır nişastası,\nmikrokristalin selüloz, hidroksipropil selüloz, magnezyum stearat, kırmızı demir oksit\n(E172).\nBu ilacı kullanmaya başlamadan önce bu KULLANMA TALİMATINI dikkatlice\nokuyunuz, çünkü sizin için önemli bilgiler içermektedir.\n• Bu kullanma talimatını saklayınız. Daha sonra tek",
+  "kt_excipient_line": "Laktoz monohidrat (sığır sütünden elde edilen), mısır nişastası, mikrokristalin selüloz, hidroksipropil selüloz, magnezyum stearat, kırmızı demir oksit (E172).",
+  "kt_stats": {
+    "pages": 11,
+    "chars": 24530,
+    "chars_per_page": 2230,
+    "images": 0,
+    "tables_detected": 0,
+    "likely_scanned": false,
+    "ocr_pages": [],
+    "removed_header_footer_patterns": [
+      "# / #"
+    ]
+  },
+  "sample_id": "S14"
+}

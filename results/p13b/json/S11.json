@@ -1,0 +1,137 @@
+{
+  "file": "S11_KUB.pdf",
+  "sha256": "2f9c5691e77b28e8596f6343385f55f02751924af90897313e7b4ef7e34f0f2a",
+  "stats": {
+    "pages": 21,
+    "chars": 55885,
+    "chars_per_page": 2661,
+    "images": 0,
+    "tables_detected": 73,
+    "likely_scanned": false,
+    "ocr_pages": [],
+    "removed_header_footer_patterns": [
+      "#/#"
+    ]
+  },
+  "sections_found": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "4.1",
+    "4.2",
+    "4.3",
+    "4.4",
+    "4.5",
+    "4.6",
+    "4.7",
+    "4.8",
+    "4.9",
+    "5",
+    "6",
+    "6.1",
+    "6.2",
+    "6.3",
+    "7"
+  ],
+  "sections_missing": [],
+  "product_name": "PEDİFEN COLD&FLU 100 mg + 15 mg + 1 mg/5 mL şurup",
+  "active_block": "100 mg\nİbuprofen\n15 mg\nPsödoefedrin hidroklorür\n1 mg\nKlorfeniramin maleat",
+  "per_basis": "5 ml",
+  "actives": [
+    {
+      "name_raw": "İbuprofen",
+      "strength_value": "100",
+      "strength_unit": "mg",
+      "per": null,
+      "salt_or_equivalence_note": null,
+      "line": "100 mg"
+    },
+    {
+      "name_raw": "Psödoefedrin hidroklorür",
+      "strength_value": "15",
+      "strength_unit": "mg",
+      "per": null,
+      "salt_or_equivalence_note": null,
+      "line": "15 mg"
+    },
+    {
+      "name_raw": "Klorfeniramin maleat",
+      "strength_value": "1",
+      "strength_unit": "mg",
+      "per": null,
+      "salt_or_equivalence_note": null,
+      "line": "1 mg"
+    }
+  ],
+  "known_effect_excipients": [
+    "Şeker 3350 mg",
+    "Sodyum sakkarin 60 mg",
+    "Sodyum hidroksit 12 mg",
+    "Sodyum benzoat (E211) 5 mg",
+    "Sodyum bikarbonat 87,5 mg",
+    "Gün batımı sarısı (E110) 0,125 mg"
+  ],
+  "pharmaceutical_form": "Şurup",
+  "form_source": "KÜB 3 first line",
+  "routes": [
+    "ORAL"
+  ],
+  "route_source": "KÜB 4.2 Uygulama şekli",
+  "excipients": [
+    "Sodyum sakkarin",
+    "Sodyum hidroksit",
+    "Şeker",
+    "Sodyum benzoat (E211)",
+    "Tween 80",
+    "Kan portakalı aroması",
+    "Magnasweet MM110",
+    "PEG400",
+    "Kolliphor RH 40",
+    "Sodyum bikarbonat",
+    "Gün batımı sarısı (E110)",
+    "Saf su"
+  ],
+  "contraindications_text": "Aşağıdaki durumlarda PEDİFEN COLD&FLU kullanımı kontrendikedir:\n• Etkin maddelere, ilacın diğer bileşenlerine veya diğer adrenerjik ilaçlara karşı aşırı\nduyarlılığı olanlarda\n• Şiddetli hipertansiyon ve taşikardinin eşlik ettiği hastalıklar ya da şiddetli koroner arter\nhastalığı olanlarda\n• Monoamino oksidaz inhibitörleri ile tedavi olanlarda (PEDİFEN COLD&FLU\nkullanımından önceki 14 gün içinde MAOİ (bir antibakteriyel olan furazolidon\ndahil)/RIMA almış ve/veya almaya devam eden hastalarda) kontrendikedir.\nPsödoefedrin ve bu tip bir ilacın aynı zamanda kullanılması kan basıncında yükselmeye\nneden olabilir.\n• Diğer sempatomimetik ilaçlar (dekonjestanlar, iştah bastırıcı ilaçlar ya da amfetamin\nbenzeri psikostimülanlar) ve beta-blokörlerle birlikte kullanım\n• 6 yaş altı çocuklarda\n• Hamileliğin son 3 ayında\n• Ağır karaciğer yetmezliği olanlarda\n• Kanama eğiliminde artış olanlarda\n• Daha önce aspirin veya diğer NSAİİ'ler ile astım, rinit, ürtiker gibi aşırı duyarlılık\nreaksiyonu gelişmiş olanlarda\n• Önceki bir NSAİİ tedavisine bağlı gastrointestinal kanama ya da perforasyon öyküsü\nbulunanlarda\n• Önceden geçirilmiş veya halen aktif ülseratif kolit, Crohn hastalığı, rekürran peptik\nülser veya gastrointestinal kanaması (iki ya da daha fazla kanıtlanmış, belirgin\nülserasyon ya da kanama episodu şeklinde tanımlanan) olanlarda\n• Şiddetli kalp yetmezliği (NYHA Sınıf IV)\n• Koroner arter bypass cerrahisi öncesi veya sonrası dönemde\n• Şiddetli böbrek yetmezliği olanlarda\n• Hipertiroidizm\n• Diabetes mellitus olanlarda\n• Feokromositoma\n• Glokomu olanlarda\n• Prostat hipertrofisi olanlarda\n• Şiddetli hipertansiyon ya da kontrol altına alınamamış hipertansiyon olanlarda\n• Şiddetli akut ya da kronik böbrek hastalığı/böbrek yetmezliği olanlarda",
+  "contraindication_items": [
+    "Etkin maddelere, ilacın diğer bileşenlerine veya diğer adrenerjik ilaçlara karşı aşırı duyarlılığı olanlarda",
+    "Şiddetli hipertansiyon ve taşikardinin eşlik ettiği hastalıklar ya da şiddetli koroner arter hastalığı olanlarda",
+    "Monoamino oksidaz inhibitörleri ile tedavi olanlarda (PEDİFEN COLD&FLU kullanımından önceki 14 gün içinde MAOİ (bir antibakteriyel olan furazolidon dahil)/RIMA almış ve/veya almaya devam eden hastalarda) kontrendikedir. Psödoefedrin ve bu tip bir ilacın aynı zamanda kullanılması kan basıncında yükselmeye neden olabilir.",
+    "Diğer sempatomimetik ilaçlar (dekonjestanlar, iştah bastırıcı ilaçlar ya da amfetamin benzeri psikostimülanlar) ve beta-blokörlerle birlikte kullanım",
+    "6 yaş altı çocuklarda",
+    "Hamileliğin son 3 ayında",
+    "Ağır karaciğer yetmezliği olanlarda",
+    "Kanama eğiliminde artış olanlarda",
+    "Daha önce aspirin veya diğer NSAİİ'ler ile astım, rinit, ürtiker gibi aşırı duyarlılık reaksiyonu gelişmiş olanlarda",
+    "Önceki bir NSAİİ tedavisine bağlı gastrointestinal kanama ya da perforasyon öyküsü bulunanlarda",
+    "Önceden geçirilmiş veya halen aktif ülseratif kolit, Crohn hastalığı, rekürran peptik ülser veya gastrointestinal kanaması (iki ya da daha fazla kanıtlanmış, belirgin ülserasyon ya da kanama episodu şeklinde tanımlanan) olanlarda",
+    "Şiddetli kalp yetmezliği (NYHA Sınıf IV)",
+    "Koroner arter bypass cerrahisi öncesi veya sonrası dönemde",
+    "Şiddetli böbrek yetmezliği olanlarda",
+    "Hipertiroidizm",
+    "Diabetes mellitus olanlarda",
+    "Feokromositoma",
+    "Glokomu olanlarda",
+    "Prostat hipertrofisi olanlarda",
+    "Şiddetli hipertansiyon ya da kontrol altına alınamamış hipertansiyon olanlarda",
+    "Şiddetli akut ya da kronik böbrek hastalığı/böbrek yetmezliği olanlarda"
+  ],
+  "interactions_text": "İbuprofen:\nPEDİFEN COLD&FLU ile aşağıdaki ajanların kombinasyonundan kaçınılmalıdır:\nAntikoagülanlar (dikumarol grup, varfarin): Deneysel çalışmalar, ibuprofenin, varfarinin\nkanama süresine olan etkilerini güçlendirdiğini göstermektedir. NSAİİ’ler ve dikumarol grubu\naynı enzim yani CYP2C9 ile metabolize olmaktadır. NSAİİ’ler varfarin gibi antikoagülanların\netkisini artırabilir.\nTiklopidin: NSAİİ’ler, trombosit fonksiyonunun inhibisyonundan dolayı tiklopidin ile\nkombinasyon halinde kullanılmamalıdır.\nMetotreksat: Özellikle böbrek yetmezliği olan hastalarda metotreksat ile yapılan düşük dozlu\ntedavi ile ilişkili olarak NSAİİ’ler ve metotreksat arasındaki potansiyel etkileşim riski göz\nönüne alınmalıdır. Kombinasyon tedavinin uygulanması halinde böbrek fonksiyonu\nizlenmelidir. Metotreksatın plazma seviyelerindeki artışın sonucu olarak toksisite meydana\ngelebileceği için, 24 saat içinde hem NSAİİ hem de metotreksat verilmesi halinde dikkatli\nolunmalıdır.\nAspirin (Asetilsalisilik asit): NSAİİ içeren başka ürünlerde olduğu gibi, artan advers etki\npotansiyeli nedeniyle, birlikte verilmemesi gerekmektedir.\nDeneysel veriler eş zamanlı kullanıldıklarında ibuprofenin düşük doz asetilsalisilik asidin\nplatelet agregasyonu üzerindeki etkisini kompetitif olarak inhibe edebileceğini göstermektedir.\nBu verilerin klinik olarak ekstrapolasyonu ile ilgili belirsizlikler bulunmasına rağmen,\nibuprofenin uzun süreli ve sürekli kullanımının, düşük doz asetilsalisilik asidin kardiyoprotektif\netkisini azaltabileceği olasılığı göz ardı edilemez. Ara sıra kullanılan ibuprofen ile klinik olarak\nanlamlı bir etki gözlenmesi muhtemelen beklenmemektedir (bkz. Bölüm 5.1).\nKardiyak glikozidler (örn: digoksin): NSAİİ’ler kalp yetmezliğini alevlendirebilir, glomerüler\nfiltrasyon hızını azaltabilir ve plazmada kardiyak glikozid düzeylerini arttırabilirler.\nMifepriston: Asetilsalisilik asit dahil NSAİİ'lerin antiprostaglandin özelliklerinden dolayı\nteorik olarak tıbbi ürünün etkililiğinde azalma meydana gelebilir. Sınırlı miktardaki kanıt,\nprostaglandin ile aynı gün uygulanan NSAİİ' lerin, mifepriston veya prostaglandinin servikal\nolgunlaşmaya olan etkilerini olumsuz şekilde etkilemediğini ve gebeliğin tıbben\nsonlandırılmasının klinik etkililiğini azaltmadığını göstermektedir.\nSülfonilüre: NSAİİ’ler sülfonilüre grubu ilaçların etkilerini potansiyalize edebilirler.\nSülfonilüre tedavisi görmekte olan hastalarda ibuprofen kullanımı ile çok seyrek hipoglisemi\nrapor edilmiştir.\nZidovudin: NSAİİ’ler zidovudin ile beraber verildiğinde hematolojik toksisite riskinde artış\nolabilir. Eş zamanlı zidovudin ve ibuprofen tedavisi alan HIV (+) hemofili hastalarında\nhematoma ve hemartroz riskinde artış bildirilmiştir.\nAlkol: Kanama gibi önemli gastrointestinal yan etki riskleri artabileceğinden dolayı ibuprofen\nve alkolün birlikte kullanımından kaçınılmalıdır.\nDiğer analjezikler: İki veya daha fazla NSAİİ’nin beraber kullanımı önlenmelidir.\nİbuprofenin aşağıdaki ajanlar ile kullanılması durumunda doz ayarlaması gerekebilir:\nAnti-hipertansifler (ADE inhibitörleri, anjiyotensin reseptör blokerleri, beta-blokerler,\ndiüretikler ve pulmoner hipertansiyonda kullanılan ilaçlar (endotelin reseptör antagonistleri,\nbosentan)) : NSAİİ’ler, antihipertansif etkiyi azaltabilir (Bkz. Bölüm 4.4). Seçici COX-2\ninhibitörleri dahil olmak üzere NSAİİ’ ler ile aynı zamanda ADE inhibitörleri ve anjiyotensin-\nII antagonistleri uygulandığında, böbrek yetmezliği olan hastalarda (örn. dehidrate veya yaşlı\nhastalar) genellikle reversibl olmak üzere akut böbrek yetmezliği için artan bir risk söz\nkonusudur. Bu nedenle, özellikle yaşlı hastalar olmak üzere böbrek yetmezliği olan hastalara\nbu kombinasyon dikkatli uygulanmalıdır. Kombinasyon tedavisi başladıktan sonra ve tedavi\nsırasında düzenli aralıklarla hastalar yeterli şekilde hidrate edilmeli ve böbrek fonksiyonu\nkontrol edilmelidir (bkz. bölüm 4.4).\nDiüretikler (tiyazid, tiyazid benzeri diüretikler ve kıvrım diüretikleri) ayrıca, NSAİİ’lerin\nnefrotoksisite riskini arttırabilir. NSAİİ’ler, muhtemelen prostaglandin sentezinin\ninhibisyonundan dolayı furosemid ve bumetanidin diüretik etkisini giderebilmektedir. Ayrıca\ntiyazidlerin antihipertansif etkisini de azaltabilmektedir.\nAminoglikozitler: NSAİİ’ler aminoglikozitlerin atılımını azaltabilir (özellikle preterm\nbebeklerde).\nLityum: İbuprofen, lityum serum seviyelerinin azalması sonucunda lityumun renal klerensini\ndüşürmektedir. Serum lityum seviyeleri sık şekilde kontrol edilmedikçe ve lityum dozunda\nolası bir azaltma yapılmadıkça bu kombinasyonun uygulanmasından kaçınılmalıdır. NSAİİ’ler,\nlityum eliminasyonunu azaltabilirler.\nSelektif serotonin geri-alım inhibitörleri, SSRI (örn: paroksetin, fluoksetin, sertralin): SSRI’ler\nve NSAİİ’lerin her ikisi de, örneğin gastrointestinal kanaldan kaynaklanan, kanama riskinde\nartışa neden olmaktadır. Bu risk kombinasyon tedavi durumunda artmaktadır. Söz konusu\nmekanizma muhtemelen, serotonin trombositlerdeki geri alımının azalması ile\nilişkilendirilebilir (bkz. bölüm 4.4).\nSiklosporin: Prostasiklinin böbrekteki azalan sentezinden dolayı, NSAİİ’ler ve siklosporinin\neşzamanlı uygulamasının artan nefrotoksisite riskine neden olduğu düşünülmektedir. Bu\nnedenle, böbrek fonksiyonu kombinasyon tedavisi durumunda yakın şekilde izlenmelidir.\nKaptopril: Deneysel çalışmalar, ibuprofenin, kaptoprilin sodyum atılımına olan etkisine ters\nyönde etki ettiğini göstermektedir.\nKolestiramin: İbuprofen ile kolestiraminin eşzamanlı uygulaması, ibuprofen absorpsiyonunu\ngeciktirmekte ve azaltmaktadır (%25 oranında). Bu ilaçlar en az 2 saat arayla alınmalıdır.\nTakrolimus: NSAİİ’ler takrolimus ile beraber verildiğinde nefrotoksisite riskinde olası bir artış\nbeklenebilir. Prostasiklinin böbrekteki azalan sentezinden dolayı, NSAİİ’ler ve takrolimusun\neşzamanlı uygulamasının artan nefrotoksisite riskine neden olduğu düşünülmektedir. Bu\nnedenle, böbrek fonksiyonu kombinasyon tedavisi durumunda yakın şekilde izlenmelidir.\nKortikosteroidler: NSAİİ’ler ile gastrointestinal ülserasyon veya kanama riskinde artış.\nAntitrombositik ajanlar (örn. klopidogrel): NSAİİ’ler ile gastrointestinal kanama riskinde artış\ngörülebilir.\nCYP2C9 İnhibitörleri: Ibuprofenin, CYP2C9 inhibitörleri ile birlikte uygulanması, ibuprofene\n(CYP2C9 sübstratı) maruziyeti arttırabilir. Vorikonazol ve flukonazol (CYP2C9 inhibitörleri)\nile yapılan bir çalışmada, yaklaşık %80-100 oranında artmış bir S(+)-ibuprofen maruziyeti\ngösterilmiştir. Özellikle yüksek dozdaki ibuprofenin vorikonazol veya flukonazol gibi potent\nCYP2C9 inhibitörleri ile birlikte uygulanması durumunda, ibuprofen dozunun düşürülmesi\ndüşünülmelidir.\nBitkisel ekstreler: Ginkgo biloba, NSAİİ kullanımına bağlı kanama riskini potansiyalize\nedebilir.\nKinolon türevi antibiyotikler: Deney hayvanlarından elde edilen veriler, NSAİİ’lerin, kinolon\nantibiyotikleriyle ilişkili konvülsiyon riskini artırabileceğine işaret etmektedir. NSAİİ ve\nkinolonları birlikte alan hastalarda konvülsiyon gelişme riski artabilir. Etkileşim çalışmaları\nyalnızca erişkinlerde yapılmıştır.\nPsödoefedrin:\nPEDİFEN COLD&FLU, MAOI/RIMA alanlarda kullanılmamalıdır. Trisiklik antidepresanlar,\niştah bastırıcı ilaçlar, sempatomimetik ajanlar (dekonjestanlar, iştah bastırıcılar ve amfetamin\nbenzeri psikostimülanlar gibi) ve sempatomimetik aminlerin katabolizmasını etkileyen\nmonoamin oksidaz inhibitörleri (furazolidon dahil) ile beraber kullanılması bazen kan\nbasıncının yükselmesine neden olabilir (bkz. Kontrendikasyonlar) Moklobemid ve oksitosin ile\nbirlikte kullanımı tansiyon yükselmesine sebebiyet verebilir. Psödoefedrin içermesinden dolayı\nPEDİFEN COLD&FLU, bretilyum, betanidin, guanetidin debrizokin, metildopa ve alfa ve beta\nadrenerjik blokör ilaçlar gibi sempatik aktiviteyi engelleyen hipotansif ilaçların etkisini kısmen\ntersine çevirir. (bkz. Özel kullanım uyarıları ve önlemleri). Kardiyak glikozidler disritmi\nriskine, ergot alkaloidleri ise ergotism riskine sebep olabilir.\nKlorfeniramin maleat:\nAlkol ve klasik antihistaminikler (sedatif etkili) birlikte kullanıldığında sedatif etki artar.\nSedatif etkileşmeler sedasyon yapmayan antihistaminiklerle daha sınırlı olarak görülür. Topikal\nuygulanan antihistaminikler (inhalasyonla uygulananlar dahil) bu tür etkileşme göstermezler.\nFenitoin içeren epilepsi ilaçlarıyla, anksiyete tedavisinde veya uyku düzenleyici ilaçlarla\ndikkatli kullanılmalıdır.\nÖzel popülasyonlara ilişkin ek bilgiler:\nÖzel popülasyonlara ilişkin etkileşim çalışması yapılmamıştır.\nPediyatrik popülasyon:\nPediyatrik popülasyona ilişkin etkileşim çalışması yapılmamıştır.",
+  "interactions_chars": 8567,
+  "seconds": 1.58,
+  "kt_active_line": "Her 5 mL (1 ölçek) şurup 100 mg ibuprofen, 15 mg psödoefedrin hidroklorür ve\n1 mg klorfeniramin maleat içerir.",
+  "kt_excipient_line": "Sodyum sakkarin, sodyum hidroksit, şeker, sodyum benzoat (E211), tween 80, kan portakalı aroması, magnasweet MM110, PEG400, kolliphor RH 40, sodyum bikarbonat, gün batımı sarısı (E110) ve saf su",
+  "kt_stats": {
+    "pages": 10,
+    "chars": 25702,
+    "chars_per_page": 2570,
+    "images": 0,
+    "tables_detected": 33,
+    "likely_scanned": false,
+    "ocr_pages": [],
+    "removed_header_footer_patterns": [
+      "#/#"
+    ]
+  },
+  "sample_id": "S11"
+}

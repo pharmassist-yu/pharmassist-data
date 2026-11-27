@@ -1,0 +1,113 @@
+{
+  "file": "S03_KUB.pdf",
+  "sha256": "05f984d4d2b4c0047737e13e5f49adc38cb5269a32d32780b31f3bddf3b7553b",
+  "stats": {
+    "pages": 20,
+    "chars": 45779,
+    "chars_per_page": 2289,
+    "images": 0,
+    "tables_detected": 0,
+    "likely_scanned": false,
+    "ocr_pages": [],
+    "removed_header_footer_patterns": [
+      "#"
+    ]
+  },
+  "sections_found": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "4.1",
+    "4.2",
+    "4.3",
+    "4.4",
+    "4.5",
+    "4.6",
+    "4.7",
+    "4.8",
+    "4.9",
+    "5",
+    "6",
+    "6.1",
+    "6.2",
+    "6.3",
+    "7"
+  ],
+  "sections_missing": [],
+  "product_name": "PAROL PLUS 250 mg/150 mg/50 mg Tablet",
+  "active_block": "250 mg parasetamol, 150 mg propifenazon, 50 mg kafein",
+  "per_basis": "PER_UNIT_DOSE (1 tablet)",
+  "actives": [
+    {
+      "name_raw": "parasetamol",
+      "strength_value": "250",
+      "strength_unit": "mg",
+      "per": null,
+      "salt_or_equivalence_note": null,
+      "line": "250 mg parasetamol"
+    },
+    {
+      "name_raw": "propifenazon",
+      "strength_value": "150",
+      "strength_unit": "mg",
+      "per": null,
+      "salt_or_equivalence_note": null,
+      "line": "150 mg propifenazon"
+    },
+    {
+      "name_raw": "kafein",
+      "strength_value": "50",
+      "strength_unit": "mg",
+      "per": null,
+      "salt_or_equivalence_note": null,
+      "line": "50 mg kafein"
+    }
+  ],
+  "known_effect_excipients": [],
+  "pharmaceutical_form": "Tablet",
+  "form_source": "KÜB 3 first line",
+  "routes": [
+    "ORAL"
+  ],
+  "route_source": "KÜB 4.2 Uygulama şekli",
+  "excipients": [
+    "Povidon (K-30)",
+    "Mikrokristalin selüloz",
+    "Mısır nişastası",
+    "Stearik asit",
+    "Etil alkol (üretim esnasında buharlaşır)"
+  ],
+  "contraindications_text": "PAROL PLUS aşağıdaki durumlarda kullanılmamalıdır:\n• Parasetamol, propifenazon, metamizol, fenilbutazon veya diğer pirazolonlar (örneğin, bazı\npirazolonların kullanımından sonra agranülositoz ile reaksiyona giren hastaları içerir),\nkafein (veya bunların türevleri, aminofilin, teofilin vb.) veya Bölüm 6.1’de yer alan\nyardımcı maddelerden herhangi birine karşı aşırı duyarlılık durumunda,\n• Şiddetli karaciğer yetmezliği olanlarda (Child-Pugh kategorisi >9).\n• Şiddetli böbrek yetmezliği olanlarda\n• Şiddetli kalp yetmezliği olanlarda\n• Porfiri (porfiri atağına neden olma riski) ve konjenital glukoz-6-fosfat dehidrojenaz\neksikliği (hemolitik anemi semptomu (hemoliz riski)) gibi metabolik hastalıklar\ndurumunda,\n• Diskrazi/kan bozuklukları (granülositopeni, agranülositoz), kemik iliği fonksiyon\nbozuklukları (örn. sitostatik ajanlarla tedavi sonrası) veya hematopoietik sistem\nhastalıkları olan hastalarda,\n• Bebeklerde, çocuklarda ve 18 yaşından küçük adölesanlarda,\n• Kontrol edilemeyen şiddetli hipertansiyon,\n• Aktif gastroduodenal ülser,\n• Asetilsalisilik asit veya diğer nonsteroid antiinflamatuvar ilaçlara karşı önceden aşırı\nduyarlılık (rinit, astım, anjiyoödem veya ürtiker) öyküsü olan hastalarda,\n• Gebeliğin üçüncü trimesterinde (bkz. Bölüm 4.6 Gebelik ve laktasyon)",
+  "contraindication_items": [
+    "Parasetamol, propifenazon, metamizol, fenilbutazon veya diğer pirazolonlar (örneğin, bazı pirazolonların kullanımından sonra agranülositoz ile reaksiyona giren hastaları içerir), kafein (veya bunların türevleri, aminofilin, teofilin vb.) veya Bölüm 6.1’de yer alan yardımcı maddelerden herhangi birine karşı aşırı duyarlılık durumunda,",
+    "Şiddetli karaciğer yetmezliği olanlarda (Child-Pugh kategorisi >9).",
+    "Şiddetli böbrek yetmezliği olanlarda",
+    "Şiddetli kalp yetmezliği olanlarda",
+    "Porfiri (porfiri atağına neden olma riski) ve konjenital glukoz-6-fosfat dehidrojenaz eksikliği (hemolitik anemi semptomu (hemoliz riski)) gibi metabolik hastalıklar durumunda,",
+    "Diskrazi/kan bozuklukları (granülositopeni, agranülositoz), kemik iliği fonksiyon bozuklukları (örn. sitostatik ajanlarla tedavi sonrası) veya hematopoietik sistem hastalıkları olan hastalarda,",
+    "Bebeklerde, çocuklarda ve 18 yaşından küçük adölesanlarda,",
+    "Kontrol edilemeyen şiddetli hipertansiyon,",
+    "Aktif gastroduodenal ülser,",
+    "Asetilsalisilik asit veya diğer nonsteroid antiinflamatuvar ilaçlara karşı önceden aşırı duyarlılık (rinit, astım, anjiyoödem veya ürtiker) öyküsü olan hastalarda,",
+    "Gebeliğin üçüncü trimesterinde (bkz. Bölüm 4.6 Gebelik ve laktasyon)"
+  ],
+  "interactions_text": "Parasetamol ile ilgili etkileşimler:\nBu ilacın parasetamol ve propifenazon içeriği nedeniyle potansiyel olarak en önemli\netkileşimleri arasında aşağıdakiler yer alır:\nParasetamol karaciğerde yoğun bir şekilde metabolize edilir, bu nedenle aynı metabolik yolları\nkullanan veya bu yolları etkileyebilen, inhibe edebilen veya uyarabilen diğer ilaçlarla\netkileşime girebilir. Metabolitlerinden bazıları hepatotoksiktir, bu nedenle parasetamolün güçlü\nkaraciğer enzim indükleyicileri (rifampisin, bazı antikonvülzanlar, vb.) ile birlikte uygulanması,\naksi halde zararsız olabilecek parasetamol dozlarının alınmasından sonra bile hepatotoksik\nreaksiyonlara yol açabilir. Bu durum özellikle yüksek dozda parasetamol kullanıldığında\nönemlidir.\n• Antikolinerjikler (propantelin): Mide boşalma hızının azalmasına bağlı olarak\nparasetamolün emiliminde etkinin olası inhibisyonuna yol açabilecek azalma.\n• Oral antikoagülanlar (asenokumarol, varfarin): Antikoagülan etkiyi arttırabilir.\n• Antikonvülzanlar (fenitoin, fenobarbital, metilfenobarbital, pidodon, karbamazepin):\nHepatik metabolizmanın indüksiyonuna bağlı olarak aşırı dozda hepatotoksisitenin\nartmasının yanı sıra parasetamolün biyoyararlanımında azalma. Antikonvülzanlarla tedavi\nsırasında parasetamol ile kendi kendine tedavi sınırlandırılmalıdır.\n• Etil alkol: Karaciğerde hepatotoksik derivatiflerinin üretiminin olası indüksiyonu\nnedeniyle parasetamol toksisitesinin etkisini artırabilir.\n• Kloramfenikol: Hepatik metabolizmasının olası inhibisyonuna bağlı olarak\nkloramfenikolün toksisitesini artırabilir.\n• İzoniazid: Hepatik metabolizmasının olası inhibisyonu nedeniyle parasetamol klerensinde\nazalmaya ve etki ve/veya toksisitesinde olası artışa yol açabilir.\n• Lamotrijin: Hepatik metabolizmasının olası indüksiyonu nedeniyle lamotrijinin\nbiyoyararlanımında azalma ve etkisinde olası azalmaya yol açabilir.\n• Metoklopramid ve domperidon: Bu ilaçlar gastrik boşalma üzerindeki etkileri nedeniyle\nparasetamolün ince bağırsakta emilimini arttırır.\n• Probenesid: Metabolitlerinin bozunmasını ve idrarla atılımını azaltarak parasetamolün\nplazma yarılanma ömrünü artırır.\n• Propranolol: Hepatik metabolizmasının olası inhibisyonuna bağlı olarak plazma\nparasetamol düzeylerinde artışa yol açar.\n• İyon değişim reçineleri (kolestiramin): Parasetamolün bağırsakta fiksasyonu nedeniyle\netkisinin olası inhibisyonu ve parasetamol emiliminde azalmaya yol açabilir.\n• Zidovudin (AZT): Parasetamol ile eş zamanlı kullanımı beyaz kan hücresi düzeylerinin\nazalması (nötropeni) riskini artırır. Bu nedenle tıbbi endikasyon dışında parasetamol AZT ile\nbirlikte uygulanmamalıdır.\n• Tropisetron ve granisetron, 5-hidroksitriptamin tip 3 antagonistleri: Bu ilaçların\nuygulanması, aralarındaki farmakodinamik etkileşim nedeniyle parasetamolün analjezik\netkisini engelleyebilir.\n• Parasetamol, flukloksasilin ile eş zamanlı kullanıldığında dikkatli olunmalıdır, çünkü eş\nzamanlı kullanımın, özellikle risk faktörleri olan hastalarda, piroglutamik asidoz nedeniyle\nyüksek anyon açıklığına sahip metabolik asidozla ilişkili olduğu gösterilmiştir (bkz. Bölüm\n4.4).\nSt. John’s Wort (Hypericum perforatum – sarı kantaron) parasetamolün kan düzeylerini\nazaltabilir.\nPropifenazon ile ilgili etkileşimler:\n• Kan değerlerini değiştirebilecek ilaçlarla (antimalaryaller, antitiroidler,\nsülfonamidler vb.) tedavi alan kişilere propifenazon uygulanmamalıdır.\n• Propifenazon oral antikoagülanların etkilerini artırabilir.\n• Diğer NSAİİ'ler, kortikosteroidler, antiplatelet ajanlar ve seçici serotonin reseptör\ninhibitörleriyle eş zamanlı kullanımı gastrointestinal advers etki riskini artırabilir.\n• Antihipertansifler (ACE inhibitörleri veya beta blokörler dahil) ve diüretikler:\nNSAİİ'ler antihipertansiflerin ve diüretiklerin etkililiğini azaltabilir. NSAİİ'lerle eş\nzamanlı tedavi, böbrek toksisitesi riskini artırabilir.\n• Propifenazon, MSS depresanlarının (antihistaminikler gibi) etkisini güçlendirebilir.\nKafein ile ilgili etkileşimler:\n• Oral kontraseptifler: Oral kontraseptifler, kafeinin karaciğerde parçalanmasını veya\nmetabolizasyonunu yavaşlatabilir.\n• Antihistaminikler: Kafein, antihistaminikler gibi bazı maddelerin sedatif etkilerine\nantagonist etki gösterebilir.\n• Antienfektifler: Kinolon tipi antienfektiflerle (örn. pipemidik asit, siprofloksasin vb.) eş\nzamanlı kullanım, kafein ve onun metaboliti paraksantinin eliminasyonunu geciktirebilir.\n• Barbitüratlar: Kafein ve barbitüratların eş zamanlı kullanımı, barbitüratların\nantikonvülzan etkilerini antagonize edebilir.\n• Bu ilacın kafein içeren içeceklerle, diğer kafein içeren ilaçlar veya MSS uyarıcı\nilaçlarla eş zamanlı olarak kullanımı, aşırı MSS uyarımına yol açarak irritabilite,\nhuzursuzluk veya uykusuzluğa neden olabilir.\n• Adrenerjik bronkodilatörler: Adrenerjik bronkodilatörlerin kafeinle eş zamanlı\nkullanımı, ilave MSS uyarımına yol açarak kan basıncında artış, aritmi ve beyin kanaması\ngibi etkilere yol açabilir.\n• Kalsiyum: Yüksek miktarda kafeinin eş zamanlı kullanımı kalsiyum emilimini\nengelleyebilir.\n• Simetidin: Simetidin, kafeinin karaciğerde parçalanmasını veya metabolizasyonunu\nyavaşlatabilir.\n• Sitokrom P450 1A2 (CYP1A2): CYP1A2 enzimi kafeinin metabolizmasında rol\noynadığından, kafein bu enziminin substratı olan ilaçlarla etkileşime girebilir.\n• Kardiyovasküler veya serebral uyarımı önlemek için kafeinle eş zamanlı disülfiram\nkullanımından kaçınılmalıdır.\n• Eritromisin kafeinin klirensini azaltabilir.\n• Fenitoin: Antiepileptik fenitoin ile eş zamanlı tedavi, kafeinin eliminasyonunu arttırabilir\nve etkisini azaltabilir.\n• Demir içeren ilaçlar: Kafein demirin emilimini azaltabilir, bu nedenle en az 2 saat arayla\nalınmalıdır.\n• Monoamin oksidaz inhibitörleri (MAOİ): Furazolidon, linezolid, prokarbazin ve\nselegilin dahil olmak üzere monoamin oksidaz inhibitörleri (MAOİ) ile eş zamanlı\nkullanım, hipertansiyona, taşikardiye ve kafeinin küçük miktarlarda uygulanması\ndurumunda kan basıncında hafif bir artışa neden olabilir.\n• Lityum ile eş zamanlı kullanıldığında idrarla atılımını arttırarak terapötik etkisini\nazaltabilir.\n• Meksiletin, kafeinin eliminasyonunu %50 oranında azaltabilir ve böylece birikmesi\nnedeniyle kafeinin olumsuz reaksiyonlarını artırabilir.\n• Sempatomimetikler: Kafein, kardiyak kronotropizm üzerinde sempatomimetikler,\ntiroksin vb. ile sinerjistik etki göstererek taşikardi riskini potansiyel olarak arttırabilir.\n• Tütün: Tütün, kafeinin karaciğerde parçalanmasını veya metabolizasyonunu\nhızlandırabilir.\n• Geniş bir etki yelpazesine sahip maddelerle (örneğin, benzodiazepinler, klozapin)\netkileşimler maddeye bağlı olarak değişebilir ve öngörülemez olabilir.\n• Kafein teofilin atılımını azaltabilir ve efedrin gibi maddelere bağımlılık potansiyelini\narttırabilir.\nÖzel popülasyonlara ilişkin ek bilgiler\nVeri bulunmamaktadır.\nPediyatrik popülasyon:\nVeri bulunmamaktadır.",
+  "interactions_chars": 6835,
+  "seconds": 1.1,
+  "kt_active_line": "250 mg parasetamol, 150 mg propifenazon ve 50 mg kafein\n• Yardımcı maddeler: Mikrokristalin selüloz, mısır nişastası, povidon, stearik asit, etil alkol\nBu ilacı kullanmaya başlamadan önce bu KULLANMA TALİMATINI dikkatlice\nokuyunuz, çünkü sizin için önemli bilgiler içermektedir.\n• Bu kullanma talimatını saklayınız. Daha sonra tekrar okumaya ihtiyaç duyabilirsiniz.\n• Eğer ilave sorularınız olursa, l",
+  "kt_excipient_line": "Mikrokristalin selüloz, mısır nişastası, povidon, stearik asit, etil alkol",
+  "kt_stats": {
+    "pages": 10,
+    "chars": 23169,
+    "chars_per_page": 2317,
+    "images": 0,
+    "tables_detected": 0,
+    "likely_scanned": false,
+    "ocr_pages": [],
+    "removed_header_footer_patterns": [
+      "# / #"
+    ]
+  },
+  "sample_id": "S03"
+}

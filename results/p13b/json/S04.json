@@ -1,0 +1,102 @@
+{
+  "file": "S04_KUB.pdf",
+  "sha256": "b68a05af91a10f5e1f6556c010074264fba5d5a4034ed41d542d4d6f4a83ffed",
+  "stats": {
+    "pages": 13,
+    "chars": 33105,
+    "chars_per_page": 2547,
+    "images": 13,
+    "tables_detected": 0,
+    "likely_scanned": false,
+    "ocr_pages": [],
+    "removed_header_footer_patterns": [
+      "#"
+    ]
+  },
+  "sections_found": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "4.1",
+    "4.2",
+    "4.3",
+    "4.4",
+    "4.5",
+    "4.6",
+    "4.7",
+    "4.8",
+    "4.9",
+    "5",
+    "6",
+    "6.1",
+    "6.2",
+    "6.3",
+    "7"
+  ],
+  "sections_missing": [],
+  "product_name": "PAROL-K 500 mg/10 mg Tablet",
+  "active_block": "Parasetamol 500 mg\nKodein fosfat 10 mg (10 mg kodein fosfata eşdeğer 10,226 mg kodein fosfat\nhemihidrat içerir)",
+  "per_basis": "PER_UNIT_DOSE (1 tablet)",
+  "actives": [
+    {
+      "name_raw": "Parasetamol",
+      "strength_value": "500",
+      "strength_unit": "mg",
+      "per": null,
+      "salt_or_equivalence_note": null,
+      "line": "Parasetamol 500 mg"
+    },
+    {
+      "name_raw": "Kodein fosfat",
+      "strength_value": "10",
+      "strength_unit": "mg",
+      "per": null,
+      "salt_or_equivalence_note": "10 mg kodein fosfata eşdeğer 10,226 mg kodein fosfat hemihidrat içerir",
+      "line": "Kodein fosfat 10 mg (10 mg kodein fosfata eşdeğer 10,226 mg kodein fosfat hemihidrat içerir)"
+    }
+  ],
+  "known_effect_excipients": [],
+  "pharmaceutical_form": "Tablet",
+  "form_source": "KÜB 3 first line",
+  "routes": [
+    "ORAL"
+  ],
+  "route_source": "KÜB 4.2 Uygulama şekli",
+  "excipients": [
+    "Mikrokristalin selüloz",
+    "Mısır nişastası",
+    "Povidon",
+    "Stearik asit"
+  ],
+  "contraindications_text": "• Parasetamol, kodein ya da diğer bileşenlerden herhangi birine aşırı duyarlılık,\n• Şiddetli MSS (santral sinir sistemi) depresyonu, beyin-omurilik sıvısı (serebrospinal)\nveya kafa içi (intrakraniyal) basınç artışı ve kafa travması geçiren hastalar,\n• Şiddetli karaciğer (Child-Pugh kategorisi > 9) ve böbrek yetmezliği\n• Hipertansiyon, antihipertansif ilaç kullanımı ya da kardiyak aritmi\n• Antidepresan (lityum karbonat dahil), anksiyolitik (klozapin dahil) ve sedatif ilaç\nkullanımı ya da anksiyete bozukluğu\n• Obstrüktif uyku apnesi sendromu tedavisi için uygulanan tonsillektomi ve/veya\nadenoidektomi sonrasında, post-operatif ağrı kontrolü için 18 yaş altında kullanımı\nkontrendikedir.\n• Emziren kadınlarda (bkz. Bölüm 4.6)\n• Riskleri nedeniyle, CYP2D6 ultra-hızlı metabolize eden kişiler hangi yaşta olursa\nolsun kodein kullanımı kontrendikedir.\n• 12 yaşından küçük çocuklarda kullanımı kontrendikedir.",
+  "contraindication_items": [
+    "Parasetamol, kodein ya da diğer bileşenlerden herhangi birine aşırı duyarlılık,",
+    "Şiddetli MSS (santral sinir sistemi) depresyonu, beyin-omurilik sıvısı (serebrospinal) veya kafa içi (intrakraniyal) basınç artışı ve kafa travması geçiren hastalar,",
+    "Şiddetli karaciğer (Child-Pugh kategorisi > 9) ve böbrek yetmezliği",
+    "Hipertansiyon, antihipertansif ilaç kullanımı ya da kardiyak aritmi",
+    "Antidepresan (lityum karbonat dahil), anksiyolitik (klozapin dahil) ve sedatif ilaç kullanımı ya da anksiyete bozukluğu",
+    "Obstrüktif uyku apnesi sendromu tedavisi için uygulanan tonsillektomi ve/veya adenoidektomi sonrasında, post-operatif ağrı kontrolü için 18 yaş altında kullanımı kontrendikedir.",
+    "Emziren kadınlarda (bkz. Bölüm 4.6)",
+    "Riskleri nedeniyle, CYP2D6 ultra-hızlı metabolize eden kişiler hangi yaşta olursa olsun kodein kullanımı kontrendikedir.",
+    "12 yaşından küçük çocuklarda kullanımı kontrendikedir."
+  ],
+  "interactions_text": "Parasetamol:\nParasetamol emilim hızı metoklopramid ya da domperidon ile artabilir ve kolestiramin ile\nazalabilir.\nPropantelin gibi mide boşalmasını yavaşlatan ilaçlar, parasetamolün yavaş emilmesine ve\ndolayısıyla parasetamolün etkisinin daha geç ortaya çıkmasına neden olabilir.\nMetoklopramid gibi mide boşalmasını hızlandıran ilaçlar, parasetamolün daha hızlı\nemilmesine ve dolayısıyla parasetamolün etkisinin daha hızlı başlamasına neden olabilir.\nBazı hipnotikler ve antiepileptik ilaçlar (glutetimid, fenobarbital, fenitoin, karbamazepin, vb.)\nveya rifampisin gibi karaciğerde hepatikmikrozomal enzim indüksiyonuna sebep olan\nilaçların tek başına kullanıldığında zararsız olan parasetamol dozlarıyla eşzamanlı kullanımı\nkaraciğer hasarına yol açabilir. Aşırı alkol tüketimi halinde, terapötik dozlarda bile\nparasetamol alınması da karaciğer hasarına neden olabilir.\nParasetamolün kloramfenikol ile kombinasyon halinde kullanılması, kloramfenikolün\nyarılanma ömrünü uzatabilir ve dolayısıyla bu ilacın toksisite riskini artırabilir.\nParasetamol (veya metabolitleri), K vitamine bağımlı koagülasyon faktörü sentezinde rol\noynayan enzimler ile etkileşir. Parasetamol ile varfarin veya kumarin türevleri arasındaki\netkileşimler, “uluslararası normalleştirilmiş oran” (International Normalized Ratio, INR)\ndeğerinde bir artışa ve kanama riskinde bir artışa neden olabilir. Bundan dolayı, oral\nantikoagulan kullanan hastalar, tıbbi denetim ve kontrol olmadan uzun süreli parasetamol\nkullanmamalıdır.\nVarfarin ve diğer kumarinlerin antikoagulan etkisi uzun süreli parasetamol kullanımında\nartarak kanama riskine yol açabilir; kısa süreli kullanımda belirgin etki beklenmez.\n5-hidroksitriptamin (serotonin) tip 3 reseptör antagonistleri olan tropisetron ve granisetron,\nfarmakodinamik etkileşim ile parasetamolün analjezik etkisini tamamen baskılayabilir.\nParasetamol ve azidotimidin (AZT-zidovudin) eşzamanlı kullanılması nötropeni eğilimini\nartırır. Bu nedenle tıbbi tavsiye olmadıkça, parasetamol AZT ile birlikte alınmamalıdır.\nParasetamol, flukloksasilin ile eş zamanlı kullanıldığında dikkatli olunmalıdır, çünkü eş\nzamanlı kullanımın, özellikle risk faktörleri olan hastalarda, piroglutamik asidoz nedeniyle\nyüksek anyon açıklığına sahip metabolik asidozla ilişkili olduğu gösterilmiştir (bkz. bölüm\n4.4).\nBirden fazla ağrı kesiciyle kombinasyon tedavisinden kaçınılması önerilmektedir. Bunun\nhastaya ekstra bir fayda sağladığını gösteren çok az kanıt vardır ve genelde istenmeyen\netkilerde artışa yol açmaktadır.\nSt. John’sWort (Hypericumperforatum–sarı kantaron) parasetamolün kan düzeylerini\nazaltabilir.\nBesinler ile birlikte alındığında parasetamolün emilim hızı azalabilir.\nKodein\nKodein, metoklopramid ve domperidonun gastrointestinal hareket üzerindeki etkilerini\nantagonize edebilir.\nKodein, alkol, anestetikler, hipnotikler, sedatifler, trisiklik antidepresanlar ve fenotiyazinleri\niçeren merkezi sinir sistemi depresanlarınının merkezi depressif etkilerini güçlendirir.\nPetidin ile birlikte alınan MAO inhibitörleri ağır MSS uyarısı ya da baskılanmasıyla ilişkili\nolmuştur (hipertansiyon ya da hipotansiyon dahil). Bu durum kodein ile ortaya konmamış olsa\nda, benzer bir etkileşimin oluşması mümkündür ve bu nedenle hasta MAO inhibitörleri\nalırken ya da MAO inhibitörünün kesilmesinden sonra 2 hafta süreyle kodein kullanımından\nkaçınılmalıdır.\nOpiat analjezikleri monoaminoksidaz inhibitörleriyle (MAOI) etkileşime girebilir ve\nserotonin sendromu ortaya çıkar.\nAntikolinerjik ilaçların kodein ile birlikte kullanılmaları paralitik ileus’a neden olabilir.",
+  "interactions_chars": 3570,
+  "seconds": 0.81,
+  "kt_active_line": "Her bir tablet 500 mg parasetamol ve 10 mg kodein fosfata eşdeğer 10,226\nmg kodein fosfat hemihidrat içerir.",
+  "kt_excipient_line": "Mikrokristalin selüloz, mısır nişastası, povidon, stearik asit.",
+  "kt_stats": {
+    "pages": 8,
+    "chars": 18832,
+    "chars_per_page": 2354,
+    "images": 8,
+    "tables_detected": 0,
+    "likely_scanned": false,
+    "ocr_pages": [],
+    "removed_header_footer_patterns": [
+      "#"
+    ]
+  },
+  "sample_id": "S04"
+}

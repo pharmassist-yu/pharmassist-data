@@ -1,0 +1,161 @@
+﻿sample_id,field,outcome,extracted,expected,ocr,note
+S01,product_name,CORRECT,PAROL 500 mg tablet,PAROL 500 mg tablet,False,
+S01,active_ingredients_strength,CORRECT,parasetamol 500 mg,parasetamol 500,False,
+S01,strength_basis,CORRECT,PER_UNIT_DOSE (1 tablet),UNIT,False,
+S01,known_effect_excipients,CORRECT,,,False,
+S01,pharmaceutical_form,CORRECT,Tablet,tablet,False,KÜB 3 first line
+S01,route,CORRECT,ORAL,ORAL,False,KÜB 4.2 Uygulama şekli
+S01,excipients,CORRECT,Mikrokristalin selüloz | Povidon K-30 | Mısır nişastası | Stearik asit,Mikrokristalin selüloz | Povidon K-30 | Mısır nişastası | Stearik asit,False,4/4 items exact
+S01,contraindications_section,CORRECT,153 chars,KÜB 4.3 full text,False,boundaries vs pdftotext
+S01,contraindication_items_split,CORRECT,2,2,False,
+S01,interactions_section,CORRECT,2424 chars,KÜB 4.5 full text,False,boundaries vs pdftotext
+S02,product_name,CORRECT,PAROL 120 mg / 5 mL Oral Süspansiyon,PAROL 120 mg / 5 mL Oral Süspansiyon,False,
+S02,active_ingredients_strength,CORRECT,parasetamol 120 mg,parasetamol 120,False,
+S02,strength_basis,CORRECT,5 ml,5 ml,False,
+S02,known_effect_excipients,CORRECT,"Metilparahidroksibenzoat 5,4 mg | Sodyum Sakkarin 5 mg | Karboksimetil selüloz sodyum 11,233 mg | Gliserin 750 mg | Sükroz 2500 mg | Günbatımı sarısı 0,5 mg",Metilparahidroksibenzoat | Sodyum Sakkarin | Karboksimetil selüloz sodyum | Gliserin | Sükroz | Günbatımı sarısı,False,
+S02,pharmaceutical_form,CORRECT,Süspansiyon,süspansiyon,False,KÜB 3 first line
+S02,route,CORRECT,ORAL,ORAL,False,KÜB 4.2 Uygulama şekli
+S02,excipients,CORRECT,Metilparahidroksibenzoat | Sodyum Sakkarin | Sükroz | Karboksimetilselüloz sodyum | Avicel RC 581 | Gliserin | Tween 80 | Portakal Esansı | Günbatımı sarısı E 110 | Distile Su,Metilparahidroksibenzoat | Sodyum Sakkarin | Sükroz | Karboksimetilselüloz sodyum | Avicel RC 581 | Gliserin | Tween 80 | Portakal Esansı | Günbatımı sarısı E 110 | Distile Su,False,10/10 items exact
+S02,contraindications_section,CORRECT,195 chars,KÜB 4.3 full text,False,boundaries vs pdftotext
+S02,contraindication_items_split,CORRECT,2,2,False,
+S02,interactions_section,CORRECT,3001 chars,KÜB 4.5 full text,False,boundaries vs pdftotext
+S03,product_name,CORRECT,PAROL PLUS 250 mg/150 mg/50 mg Tablet,PAROL PLUS 250 mg/150 mg/50 mg Tablet,False,
+S03,active_ingredients_strength,CORRECT,parasetamol 250 mg; propifenazon 150 mg; kafein 50 mg,parasetamol 250; propifenazon 150; kafein 50,False,
+S03,strength_basis,CORRECT,PER_UNIT_DOSE (1 tablet),UNIT,False,
+S03,known_effect_excipients,CORRECT,,,False,
+S03,pharmaceutical_form,CORRECT,Tablet,tablet,False,KÜB 3 first line
+S03,route,CORRECT,ORAL,ORAL,False,KÜB 4.2 Uygulama şekli
+S03,excipients,CORRECT,Povidon (K-30) | Mikrokristalin selüloz | Mısır nişastası | Stearik asit | Etil alkol (üretim esnasında buharlaşır),Povidon (K-30) | Mikrokristalin selüloz | Mısır nişastası | Stearik asit | Etil alkol (üretim esnasında buharlaşır),False,5/5 items exact
+S03,contraindications_section,CORRECT,1282 chars,KÜB 4.3 full text,False,boundaries vs pdftotext
+S03,contraindication_items_split,CORRECT,11,11,False,
+S03,interactions_section,CORRECT,6835 chars,KÜB 4.5 full text,False,boundaries vs pdftotext
+S04,product_name,CORRECT,PAROL-K 500 mg/10 mg Tablet,PAROL-K 500 mg/10 mg Tablet,False,
+S04,active_ingredients_strength,CORRECT,Parasetamol 500 mg; Kodein fosfat 10 mg,parasetamol 500; kodein fosfat 10,False,salt/equivalence note expected
+S04,strength_basis,CORRECT,PER_UNIT_DOSE (1 tablet),UNIT,False,
+S04,known_effect_excipients,CORRECT,,,False,
+S04,pharmaceutical_form,CORRECT,Tablet,tablet,False,KÜB 3 first line
+S04,route,CORRECT,ORAL,ORAL,False,KÜB 4.2 Uygulama şekli
+S04,excipients,CORRECT,Mikrokristalin selüloz | Mısır nişastası | Povidon | Stearik asit,Mikrokristalin selüloz | Mısır nişastası | Povidon | Stearik asit,False,4/4 items exact
+S04,contraindications_section,CORRECT,909 chars,KÜB 4.3 full text,False,boundaries vs pdftotext
+S04,contraindication_items_split,CORRECT,9,9,False,
+S04,interactions_section,CORRECT,3570 chars,KÜB 4.5 full text,False,boundaries vs pdftotext
+S05,product_name,CORRECT,PAROL® 200 mg Supozituvar,PAROL® 200 mg Supozituvar,False,
+S05,active_ingredients_strength,CORRECT,Parasetamol 200 mg,parasetamol 200,False,
+S05,strength_basis,CORRECT,PER_UNIT_DOSE (1 supozituvar),UNIT,False,
+S05,known_effect_excipients,CORRECT,,,False,
+S05,pharmaceutical_form,CORRECT,supozituvar,supozituvar,False,product name (KÜB 3 has description only)
+S05,route,CORRECT,RECTAL,RECTAL,False,KÜB 4.2 Uygulama şekli
+S05,excipients,CORRECT,Titriplex III (EDTA) | Massupol 15,Titriplex III (EDTA) | Massupol 15,False,2/2 items exact
+S05,contraindications_section,CORRECT,288 chars,KÜB 4.3 full text,False,boundaries vs pdftotext
+S05,contraindication_items_split,CORRECT,4,4,False,
+S05,interactions_section,CORRECT,2505 chars,KÜB 4.5 full text,False,boundaries vs pdftotext
+S06,product_name,CORRECT,PAROL 10mg/ml İnfüzyon İçin Çözelti İçeren Flakon,PAROL 10mg/ml İnfüzyon İçin Çözelti İçeren Flakon,False,
+S06,active_ingredients_strength,CORRECT,Parasetamol 10 mg,parasetamol 10,False,
+S06,strength_basis,CORRECT,1 ml,1 ml,False,
+S06,known_effect_excipients,CORRECT,Disodyum fosfat dihidrat 0.130mg/ml | Mannitol 38.5mg/ml,Disodyum fosfat dihidrat | Mannitol,False,
+S06,pharmaceutical_form,CORRECT,İnfüzyon çözeltisi,infüzyon çözeltisi,False,KÜB 3 first line
+S06,route,CORRECT,INTRAVENOUS,INTRAVENOUS,False,KÜB 3 form
+S06,excipients,CORRECT,Mannitol | Sistein hidroklorür monohidrat | Disodyum fosfat dihidrat | Sodyum hidroksit | Enjeksiyonluk su,Mannitol | Sistein hidroklorür monohidrat | Disodyum fosfat dihidrat | Sodyum hidroksit | Enjeksiyonluk su,False,5/5 items exact
+S06,contraindications_section,CORRECT,230 chars,KÜB 4.3 full text,False,boundaries vs pdftotext
+S06,contraindication_items_split,CORRECT,2,2,False,
+S06,interactions_section,CORRECT,2773 chars,KÜB 4.5 full text,False,boundaries vs pdftotext
+S07,product_name,CORRECT,AUGMENTİN 500 mg/125 mg film kaplı tablet,AUGMENTİN 500 mg/125 mg film kaplı tablet,False,
+S07,active_ingredients_strength,CORRECT,Amoksisilin 500 mg; Klavulanik asit 125 mg,amoksisilin 500; klavulanik asit 125,False,salt/equivalence note expected
+S07,strength_basis,CORRECT,1 tablet,UNIT,False,
+S07,known_effect_excipients,CORRECT,Sodyum nişasta glikolat tip A 21 mg,Sodyum nişasta glikolat tip A,False,
+S07,pharmaceutical_form,CORRECT,Film Kaplı Tablet,film kaplı tablet,False,KÜB 3 first line
+S07,route,CORRECT,ORAL,ORAL,False,KÜB 4.2 Uygulama şekli
+S07,excipients,CORRECT,Susuz kolloidal silika | Sodyum nişasta glikolat tip A | Magnezyum stearat | Mikrokristalin selüloz | Titanyum dioksit (E171) | Hipromelloz (5 cps) | Hipromelloz (15 cps) | Makrogol 4000 | Makrogol 6000 | Dimetikon 500,Susuz kolloidal silika | Sodyum nişasta glikolat tip A | Magnezyum stearat | Mikrokristalin selüloz | Titanyum dioksit (E171) | Hipromelloz (5 cps) | Hipromelloz (15 cps) | Makrogol 4000 | Makrogol 6000 | Dimetikon 500,False,10/10 items exact
+S07,contraindications_section,CORRECT,450 chars,KÜB 4.3 full text,False,boundaries vs pdftotext
+S07,contraindication_items_split,CORRECT,3,3,False,
+S07,interactions_section,CORRECT,2120 chars,KÜB 4.5 full text,False,boundaries vs pdftotext
+S08,product_name,CORRECT,AUGMENTİN 875 mg/ 125 mg film kaplı tablet,AUGMENTİN 875 mg/ 125 mg film kaplı tablet,False,
+S08,active_ingredients_strength,CORRECT,Amoksisilin 875 mg; Klavulanik asit 125 mg,amoksisilin 875; klavulanik asit 125,False,salt/equivalence note expected
+S08,strength_basis,CORRECT,1 tablet,UNIT,False,
+S08,known_effect_excipients,CORRECT,"Sodyum nişasta glikolat 29,00 mg",Sodyum nişasta glikolat,False,
+S08,pharmaceutical_form,CORRECT,Film Kaplı Tablet,film kaplı tablet,False,KÜB 3 first line
+S08,route,CORRECT,ORAL,ORAL,False,KÜB 4.2 Uygulama şekli
+S08,excipients,CORRECT,Susuz kolloidal silika | Sodyum nişasta glikolat tip A | Magnezyum stearat | Mikrokristalin selüloz | Titanyum dioksit (E171) | Hipromelloz (5 cps) | Hipromelloz (15 cps) | Makrogol 4000 | Makrogol 6000 | Dimetikon,Susuz kolloidal silika | Sodyum nişasta glikolat tip A | Magnezyum stearat | Mikrokristalin selüloz | Titanyum dioksit (E171) | Hipromelloz (5 cps) | Hipromelloz (15 cps) | Makrogol 4000 | Makrogol 6000 | Dimetikon,False,10/10 items exact
+S08,contraindications_section,CORRECT,450 chars,KÜB 4.3 full text,False,boundaries vs pdftotext
+S08,contraindication_items_split,CORRECT,3,3,False,
+S08,interactions_section,CORRECT,2121 chars,KÜB 4.5 full text,False,boundaries vs pdftotext
+S09,product_name,CORRECT,AUGMENTİN-BID 400 mg+57 mg/5 ml fort oral süspansiyon hazırlamak için kuru toz,AUGMENTİN-BID 400 mg+57 mg/5 ml fort oral süspansiyon hazırlamak için kuru toz,False,
+S09,active_ingredients_strength,CORRECT,Amoksisilin 400 mg; Klavulanik asit 57 mg,amoksisilin 400; klavulanik asit 57,False,salt/equivalence note expected
+S09,strength_basis,CORRECT,5 ml,5 ml,False,
+S09,known_effect_excipients,CORRECT,"Aspartam 12,50 mg | Portakal esansı 1281 (61027E) 15,00 mg | Portakal esansı 1282 (9/027108). 11,25 mg | Ahududu esansı (07943 1286) 22,50 mg | Golden şurup esansı (1283 052927/Ap0551). 23,75 mg",Aspartam | Portakal esansı 1281 (61027E) | Portakal esansı 1282 (9/027108) | Ahududu esansı (07943 1286) | Golden şurup esansı (1283 052927/Ap0551),False,
+S09,pharmaceutical_form,CORRECT,Süspansiyon hazırlamak için kuru toz,süspansiyon hazırlamak için kuru toz,False,KÜB 3 first line
+S09,route,CORRECT,ORAL,ORAL,False,KÜB 4.2 Uygulama şekli
+S09,excipients,CORRECT,Ksantan sakızı | Aspartam | Süksinik asit | Aerosil 200 | Hidroksipropilmetilselüloz | Portakal esansı 1281 (61027E) (üretiminde kunduz koku bezi kullanılmaktadır) | Portakal esansı 1282 (9/027108) (üretiminde kunduz koku bezi kullanılmaktadır) | Ahududu esansı (07943 1286) | Golden şurup esansı (1283 052927/Ap0551) | Silikon dioksit,Ksantan sakızı | Aspartam | Süksinik asit | Aerosil 200 | Hidroksipropilmetilselüloz | Portakal esansı 1281 (61027E) (üretiminde kunduz koku bezi kullanılmaktadır) | Portakal esansı 1282 (9/027108) (üretiminde kunduz koku bezi kullanılmaktadır) | Ahududu esansı (07943 1286) | Golden şurup esansı (1283 052927/Ap0551) | Silikon dioksit,False,10/10 items exact
+S09,contraindications_section,CORRECT,445 chars,KÜB 4.3 full text,False,boundaries vs pdftotext
+S09,contraindication_items_split,CORRECT,3,3,False,
+S09,interactions_section,CORRECT,2211 chars,KÜB 4.5 full text,False,boundaries vs pdftotext
+S10,product_name,CORRECT,PEDİFEN® 100 mg /5 ml pediatrik şurup,PEDİFEN® 100 mg /5 ml pediatrik şurup,False,
+S10,active_ingredients_strength,CORRECT,ibuprofen 100 mg,ibuprofen 100,False,
+S10,strength_basis,CORRECT,5 ml,5 ml,False,
+S10,known_effect_excipients,CORRECT,"Sukroz 3300 mg | Sorbitol (%70) (E420) 500 mg | Günbatımı sarısı (E110) 0,5 mg | Metil hidroksibenzoat (E218) 5 mg | Propil hidroksibenzoat (E216) 2,5 mg",Sukroz | Sorbitol (%70) (E420) | Günbatımı sarısı (E110) | Metil hidroksibenzoat (E218) | Propil hidroksibenzoat (E216),False,
+S10,pharmaceutical_form,PARTIAL,şurup,şurup,False,"KÜB 3 has no form term; description says süspansiyon, name says şurup"
+S10,route,CORRECT,ORAL,ORAL,False,KÜB 4.2 Uygulama şekli
+S10,excipients,CORRECT,Sukroz | Sorbitol çözeltisi (%70 non-kristalize) (E420) | Gliserin | Kaolin (Sterilize hafif) | Agar BPC 54 PDR | Sodyum benzoat (E211) | Sitrik asit monohidrat | Polisorbat | Metil hidroksibenzoat (E218) | Propil hidroksibenzoat.(E216) | Gün batımı sarısı (E110) | Portakal aroması | Saf su,Sukroz | Sorbitol çözeltisi (%70 non-kristalize) (E420) | Gliserin | Kaolin (Sterilize hafif) | Agar BPC 54 PDR | Sodyum benzoat (E211) | Sitrik asit monohidrat | Polisorbat | Metil hidroksibenzoat (E218) | Propil hidroksibenzoat.(E216) | Gün batımı sarısı (E110) | Portakal aroması | Saf su,False,13/13 items exact
+S10,contraindications_section,CORRECT,773 chars,KÜB 4.3 full text,False,boundaries vs pdftotext
+S10,contraindication_items_split,CORRECT,10,10,False,
+S10,interactions_section,CORRECT,7646 chars,KÜB 4.5 full text,False,boundaries vs pdftotext
+S11,product_name,CORRECT,PEDİFEN COLD&FLU 100 mg + 15 mg + 1 mg/5 mL şurup,PEDİFEN COLD&FLU 100 mg + 15 mg + 1 mg/5 mL şurup,False,
+S11,active_ingredients_strength,CORRECT,İbuprofen 100 mg; Psödoefedrin hidroklorür 15 mg; Klorfeniramin maleat 1 mg,ibuprofen 100; psödoefedrin hidroklorür 15; klorfeniramin maleat 1,False,
+S11,strength_basis,CORRECT,5 ml,5 ml,False,
+S11,known_effect_excipients,CORRECT,"Şeker 3350 mg | Sodyum sakkarin 60 mg | Sodyum hidroksit 12 mg | Sodyum benzoat (E211) 5 mg | Sodyum bikarbonat 87,5 mg | Gün batımı sarısı (E110) 0,125 mg",Şeker | Sodyum sakkarin | Sodyum hidroksit | Sodyum benzoat (E211) | Sodyum bikarbonat | Gün batımı sarısı (E110),False,
+S11,pharmaceutical_form,CORRECT,Şurup,şurup,False,KÜB 3 first line
+S11,route,CORRECT,ORAL,ORAL,False,KÜB 4.2 Uygulama şekli
+S11,excipients,CORRECT,Sodyum sakkarin | Sodyum hidroksit | Şeker | Sodyum benzoat (E211) | Tween 80 | Kan portakalı aroması | Magnasweet MM110 | PEG400 | Kolliphor RH 40 | Sodyum bikarbonat | Gün batımı sarısı (E110) | Saf su,Sodyum sakkarin | Sodyum hidroksit | Şeker | Sodyum benzoat (E211) | Tween 80 | Kan portakalı aroması | Magnasweet MM110 | PEG400 | Kolliphor RH 40 | Sodyum bikarbonat | Gün batımı sarısı (E110) | Saf su,False,12/12 items exact
+S11,contraindications_section,CORRECT,1754 chars,KÜB 4.3 full text,False,boundaries vs pdftotext
+S11,contraindication_items_split,CORRECT,21,21,False,
+S11,interactions_section,CORRECT,8567 chars,KÜB 4.5 full text,False,boundaries vs pdftotext
+S12,product_name,WRONG,PEDİFEN 100mg/59ml pediatrik şurup,PEDİFEN 100mg/5ml pediatrik şurup,True,
+S12,active_ingredients_strength,CORRECT,ibuprofen 100 mg,ibuprofen 100,True,
+S12,strength_basis,CORRECT,5 ml,5 ml,True,
+S12,known_effect_excipients,PARTIAL,"Şeker 3300 mg | 7096 sorbitol 500 mg | Gliserin 500 mg | Sodyum benzoat 12,5 mg | Günbatımı sarısı 0,5 mg | Metil hidroksibenzoat 5 mg | Propilhidroksibenzoat 2,5 mg",Şeker | 70% sorbitol | Gliserin | Sodyum benzoat | Günbatımı sarısı | Metil hidroksibenzoat | Propilhidroksibenzoat,True,
+S12,pharmaceutical_form,PARTIAL,şurup,şurup,True,"KÜB 3 has no form term; description says süspansiyon, name says şurup"
+S12,route,CORRECT,ORAL,ORAL,True,KÜB 4.2 Uygulama şekli
+S12,excipients,PARTIAL,Şeker | Sorbitol çözeltisi (7094 non-kristalize) | Gliserin | Kaolin (Sterilized light) | Agar BPC 54 PDR | Sodyum benzoat | Sitrik asit monohidrat | Polisorbat | Metil hidroksibenzoat | Propil hidroksibenzoat | Gün batımı sarısı (E110) | Portakal aroması (D717) | Saf su,Şeker | Sorbitol çözeltisi (70% non-kristalize) | Gliserin | Kaolin (Sterilized light) | Agar BPC 54 PDR | Sodyum benzoat | Sitrik asit monohidrat | Polisorbat | Metil hidroksibenzoat | Propil hidroksibenzoat. | Gün batımı sarısı (E110) | Portakal aroması (D717) | Saf su,True,12/13 items exact
+S12,contraindications_section,PARTIAL,759 chars,KÜB 4.3 full text,True,scanned: OCR text has character errors
+S12,contraindication_items_split,WRONG,1,10,True,
+S12,interactions_section,PARTIAL,7222 chars,KÜB 4.5 full text,True,scanned: OCR text has character errors
+S13,product_name,CORRECT,ABILIFY 5 mg tablet,ABILIFY 5 mg tablet,False,
+S13,active_ingredients_strength,CORRECT,Aripiprazol 5 mg,aripiprazol 5,False,
+S13,strength_basis,CORRECT,PER_UNIT_DOSE (1 tablet),UNIT,False,
+S13,known_effect_excipients,CORRECT,Laktoz monohidrat (sığır sütü) 67 mg,Laktoz monohidrat (sığır sütü),False,
+S13,pharmaceutical_form,CORRECT,Tablet,tablet,False,KÜB 3 first line
+S13,route,CORRECT,ORAL,ORAL,False,KÜB 4.2 Uygulama şekli
+S13,excipients,CORRECT,Laktoz monohidrat (sığır sütü) | Mısır nişastası | Mikrokristalin selüloz | Hidroksipropil selüloz | Magnezyum stearat | İndigo karmin alüminyum boya (E132),Laktoz monohidrat (sığır sütü) | Mısır nişastası | Mikrokristalin selüloz | Hidroksipropil selüloz | Magnezyum stearat | İndigo karmin alüminyum boya (E132),False,6/6 items exact
+S13,contraindications_section,CORRECT,78 chars,KÜB 4.3 full text,False,boundaries vs pdftotext
+S13,contraindication_items_split,CORRECT,1,1,False,
+S13,interactions_section,CORRECT,5464 chars,KÜB 4.5 full text,False,boundaries vs pdftotext
+S14,product_name,CORRECT,ABILIFY 10 mg tablet,ABILIFY 10 mg tablet,False,
+S14,active_ingredients_strength,CORRECT,Aripiprazol 10 mg,aripiprazol 10,False,
+S14,strength_basis,CORRECT,PER_UNIT_DOSE (1 tablet),UNIT,False,
+S14,known_effect_excipients,CORRECT,"Laktoz monohidrat (sığır sütü) 62,18 mg",Laktoz monohidrat (sığır sütü),False,
+S14,pharmaceutical_form,CORRECT,Tablet,tablet,False,KÜB 3 first line
+S14,route,CORRECT,ORAL,ORAL,False,KÜB 4.2 Uygulama şekli
+S14,excipients,CORRECT,Laktoz monohidrat (sığır sütü) | Mısır nişastası | Mikrokristalin selüloz | Hidroksipropil selüloz | Magnezyum stearat | Kırmızı demir oksit (E172),Laktoz monohidrat (sığır sütü) | Mısır nişastası | Mikrokristalin selüloz | Hidroksipropil selüloz | Magnezyum stearat | Kırmızı demir oksit (E172),False,6/6 items exact
+S14,contraindications_section,CORRECT,78 chars,KÜB 4.3 full text,False,boundaries vs pdftotext
+S14,contraindication_items_split,CORRECT,1,1,False,
+S14,interactions_section,CORRECT,5464 chars,KÜB 4.5 full text,False,boundaries vs pdftotext
+S15,product_name,CORRECT,ABILIFY 1 mg/ml oral çözelti,ABILIFY 1 mg/ml oral çözelti,False,
+S15,active_ingredients_strength,CORRECT,aripiprazol 1 mg,aripiprazol 1,False,
+S15,strength_basis,CORRECT,1 ml,1 ml,False,
+S15,known_effect_excipients,CORRECT,"Fruktoz 200 mg | Sukroz 400 mg | Metil parahidroksibenzoat 1,8 mg | Propil parahidroksibenzoat 0,2 mg | Propilen glikol 50 mg | Sodyum hidroksit 0,45 mg | Disodyum edetat 0,5 mg",Fruktoz | Sukroz | Metil parahidroksibenzoat | Propil parahidroksibenzoat | Propilen glikol | Sodyum hidroksit | Disodyum edetat,False,
+S15,pharmaceutical_form,CORRECT,Oral çözelti,oral çözelti,False,KÜB 3 first line
+S15,route,CORRECT,ORAL,ORAL,False,KÜB 4.2 Uygulama şekli
+S15,excipients,CORRECT,Gliserin | DL-Laktik asit | Sodyum hidroksit | Propilen glikol | Disodyum edetat | Metil parahidroksibenzoat | Propil parahidroksibenzoat | Sukroz | Fruktoz | Naturel Orange Cream Aroma WONF | Saf su,Gliserin | DL-Laktik asit | Sodyum hidroksit | Propilen glikol | Disodyum edetat | Metil parahidroksibenzoat | Propil parahidroksibenzoat | Sukroz | Fruktoz | Naturel Orange Cream Aroma WONF | Saf su,False,11/11 items exact
+S15,contraindications_section,CORRECT,78 chars,KÜB 4.3 full text,False,boundaries vs pdftotext
+S15,contraindication_items_split,CORRECT,1,1,False,
+S15,interactions_section,CORRECT,5464 chars,KÜB 4.5 full text,False,boundaries vs pdftotext
+S16,product_name,CORRECT,KLACİD® 500 mg film kaplı tablet,KLACİD 500 mg film kaplı tablet,False,
+S16,active_ingredients_strength,CORRECT,Klaritromisin 500 mg,klaritromisin 500,False,
+S16,strength_basis,CORRECT,PER_UNIT_DOSE (1 film kaplı tablet),UNIT,False,
+S16,known_effect_excipients,CORRECT,"Kroskarmeloz sodyum 65,60 mg | Kinolin sarısı (Aluminyum Lake E 104) 0,07 mg | Propilen glikol 14,62 mg",Kroskarmeloz sodyum | Kinolin sarısı (Aluminyum Lake E 104) | Propilen glikol,False,
+S16,pharmaceutical_form,CORRECT,Film kaplı tablet,film kaplı tablet,False,KÜB 3 first line
+S16,route,CORRECT,ORAL,ORAL,False,KÜB 4.2 Uygulama şekli
+S16,excipients,CORRECT,Kroskarmeloz sodyum | Selüloz mikrokristalin | Silikon dioksid | Povidon (K değeri 29-32 ) | Stearik asid | Magnezyum stearat | Talk | Hipromelloz | Hidroksipropilselüloz | Propilen glikol | Sorbitan monooleat | Titanyum dioksid | Sorbik asid | Vanilya | Kinolin sarısı (Aluminyum Lake E104),Kroskarmeloz sodyum | Selüloz mikrokristalin | Silikon dioksid | Povidon (K değeri 29-32 ) | Stearik asid | Magnezyum stearat | Talk | Hipromelloz | Hidroksipropilselüloz | Propilen glikol | Sorbitan monooleat | Titanyum dioksid | Sorbik asid | Vanilya | Kinolin sarısı (Aluminyum Lake E104),False,15/15 items exact
+S16,contraindications_section,CORRECT,1684 chars,KÜB 4.3 full text,False,boundaries vs pdftotext
+S16,contraindication_items_split,CORRECT,11,11,False,
+S16,interactions_section,CORRECT,18437 chars,KÜB 4.5 full text,False,boundaries vs pdftotext
