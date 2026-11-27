@@ -1,0 +1,129 @@
+{
+  "file": "S12_KUB.pdf",
+  "sha256": "b1223ee0efc23c032b07f02d68fc3d8d775864547080af0d0e6fb153b8afdbe6",
+  "stats": {
+    "pages": 15,
+    "chars": 33410,
+    "chars_per_page": 2227,
+    "images": 30,
+    "tables_detected": 0,
+    "likely_scanned": true,
+    "ocr_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "removed_header_footer_patterns": [
+      "#"
+    ]
+  },
+  "sections_found": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "4.1",
+    "4.2",
+    "4.3",
+    "4.4",
+    "4.5",
+    "4.6",
+    "4.7",
+    "4.8",
+    "5",
+    "6",
+    "6.1",
+    "6.2",
+    "7"
+  ],
+  "sections_missing": [
+    "4.9",
+    "6.3"
+  ],
+  "product_name": "PEDİFEN 100mg/59ml pediatrik şurup",
+  "active_block": "Her 5 ml'lik ölçek, 100 mg ibuprofen içerir.",
+  "per_basis": "5 ml",
+  "actives": [
+    {
+      "name_raw": "ibuprofen",
+      "strength_value": "100",
+      "strength_unit": "mg",
+      "per": null,
+      "salt_or_equivalence_note": null,
+      "line": "100 mg ibuprofen içerir."
+    }
+  ],
+  "known_effect_excipients": [
+    "Şeker 3300 mg",
+    "7096 sorbitol 500 mg",
+    "Gliserin 500 mg",
+    "Sodyum benzoat 12,5 mg",
+    "Günbatımı sarısı 0,5 mg",
+    "Metil hidroksibenzoat 5 mg",
+    "Propilhidroksibenzoat 2,5 mg"
+  ],
+  "pharmaceutical_form": "şurup",
+  "form_source": "product name (KÜB 3 has description only)",
+  "routes": [
+    "ORAL"
+  ],
+  "route_source": "KÜB 4.2 Uygulama şekli",
+  "excipients": [
+    "Şeker",
+    "Sorbitol çözeltisi (7094 non-kristalize)",
+    "Gliserin",
+    "Kaolin (Sterilized light)",
+    "Agar BPC 54 PDR",
+    "Sodyum benzoat",
+    "Sitrik asit monohidrat",
+    "Polisorbat",
+    "Metil hidroksibenzoat",
+    "Propil hidroksibenzoat",
+    "Gün batımı sarısı (E110)",
+    "Portakal aroması (D717)",
+    "Saf su"
+  ],
+  "contraindications_text": "» o İbuprofene yadailacın içindeki yardımcı maddelerin herhangi birine karşı aşırı duyarlılık,\ne» Daha önce aspirin veya diğer NSAİİ'ler ile astım, rinit, ürtiker gibi aşırı duyarlılık\nreaksiyonu gelişmiş olması,\ne Hamileliğinson3ayı,\n»e Ağır karaciğer yetmezliği,\ne Ağır böbrek yetmezliği (glomerüler filtrasyon < 30ml/dk.),\n»e Kanama eğiliminde attış,\n» Önceki bir NSAİİ tedavisine bağlı gastrointestinal kanama ya da perforasyon öyküsü\nbulunmak,\nse Önceden geçirilmiş veya halen aktif ülseratif kolit, Crohn hastalığı, rekürran peptik ülser\nveya gastrointestinal kanama (iki ya da daha fazla kanıtlanmış, belirgin ülserasyon ya da kanama\nepisodu şeklinde tanımlanan),\n»e Şiddetli kalp yetmezliği,\ne Koroner arter bypass cerrahisi öncesi veya sonrası dönem.",
+  "contraindication_items": [
+    "» o İbuprofene yadailacın içindeki yardımcı maddelerin herhangi birine karşı aşırı duyarlılık, e» Daha önce aspirin veya diğer NSAİİ'ler ile astım, rinit, ürtiker gibi aşırı duyarlılık reaksiyonu gelişmiş olması, e Hamileliğinson3ayı, »e Ağır karaciğer yetmezliği, e Ağır böbrek yetmezliği (glomerüler filtrasyon < 30ml/dk.), »e Kanama eğiliminde attış, » Önceki bir NSAİİ tedavisine bağlı gastrointestinal kanama ya da perforasyon öyküsü bulunmak, se Önceden geçirilmiş veya halen aktif ülseratif kolit, Crohn hastalığı, rekürran peptik ülser veya gastrointestinal kanama (iki ya da daha fazla kanıtlanmış, belirgin ülserasyon ya da kanama episodu şeklinde tanımlanan), »e Şiddetli kalp yetmezliği, e Koroner arter bypass cerrahisi öncesi veya sonrası dönem."
+  ],
+  "interactions_text": "PEDİFEN ile aşağıdaki ajanların kombinasyonundan kaçınılmalıdır:\nAntikoagülanlar (dikumarol grup, warfarin): Deneysel çalışmalar, ibuprofenin, warfarinin\nkanama süresine olan etkilerini güçlendirdiğini göstermektedir. NSAJPler ve dikumarol grubu\naynı enzim yani CYP 2C9 ile metabolize olmaktadır. NSAİİ'ler warfarin gibi antikoagülanların\netkisini artırabilir.\nTiklopidin: NSAİİ'ler, trombosit fonksiyonunun inhibisyonundan dolayı tiklopidin ile\nkombinasyon halinde kullanılmamalıdır.\nMetotreksat: NSAİİ'ler, metotreksatın tübüler sekresyonunu inhibe eder ve sonuç olarak azalan\nmetotreksat klerensi ile bazı metabolik etkileşimler meydana gelebilir. Bu nedenle, metotreksat\nile yapılan yüksek dozlu tedavide NSAİİlerin reçete edilmesinden kaçınılmalıdır.\nAspirin (Asetilsalisilik asit): NSAİİ içeren başka ürünlerde olduğu gibi, artan advers etki\npotansiyeli nedeniyle, birlikte verilmemesi gerekmektedir. Deneysel veriler eş zamanlı\nkullanıldıklarında ibuprofenin düşük doz aspirinin trombosit agregasyonu üzerindeki etkisini\nengelleyebildiğini göstermektedir. Ancak bu verilerdeki kısıtlamalar ve ex vivo verilerin klinik\ndurumları değerlendirmedeki belirsizlikleri, düzenli ibuprofen kullanımı konusunda kesin\nsonuçlara varılamayacağını göstermektedir ve arasıra kullanılan ibuprofen ile klinik olarak\nanlamlı bir etki gözlenmesi muhtemelen beklenmemektedir (bkz. Bölüm 5.1).\nKardiyak glikozitler (örn: digoksin): NSAİPler kalp yetmezliğini alevlendirebilir, glomerüler\nfiltrasyon hızını azaltabilir ve plazmada kardiyak glikozit düzeylerini arttırabilirler.\nMifepriston: Asetilsalisilik asit dahil NSAİİlerin antiprostaglandin özelliklerinden dolayı teorik\nolarak tıbbi ürünün etkililiğinde azalma meydana gelebilir. Sınırlı miktardaki kanıt,\nprostaglandin ile aynı gün uygulanan NSAİİ'lerin, mifepriston veya prostaglandinin servikal\nolgunlaşmaya olan etkilerini olumsuz şekilde etkilemediğini ve gebeliğin tıbben\nsonlandırılmasının klinik etkililiğini azaltmadığını göstermektedir.\nSülfonilüre: NSAİİ'ler sülfonilüre grubu ilaçların etkilerini potansiyalize edebilirler. Sülfonilüre\ntedavisi görmekte olan hastalarda ibuprofen kullanımı ile çok seyrek hipoglisemi rapor\nedilmiştir.\nZidovudin: NSAİİ'ler zidovudin ile beraber verildiğinde hematolojik toksisite riskinde artış\nolabilir. Eş zamanlı zidovudin ve ibuprofen tedavisi alan HIV (4) hemofili hastalarında\nhematoma ve hemartroz riskinde artış bildirilmiştir.\nAlkol: Kanama gibi önemli gastrointestinal yan etki riskleri artabileceğinden dolayı ibuprofen\nve alkolün birlikte kullanımından kaçınılmalıdır.\nDiğer analjezikler: İki veya daha fazla NSAİİnin beraber kullanımı önlenmelidir.\nİbuprofenin aşağıdaki ajanlar ile kullanılması durumunda doz ayarlaması gerekebilir:\nAnti-hipertansifler (ADE inhibitörleri, anjiyotensin reseptör blokerleri, beta-blokerler,\ndiüretikler ve pulmoner hipertansiyonda kullanılan ilaçlar (endotelin reseptör antagonistleri,\nbosentan)) : NSAİİ'ler, antihipertansif etkiyi azaltabilir (Bkz. Bölüm 4.4). Seçici COX-2\ninhibitörleri dahil olmak üzere NSAİİ'ler ile aynı zamanda ADE inhibitörleri ve anjiyotensin-1I\nantagonistleri uygulandığında, böbrek yetmezliği olan hastalarda (örn. dehidrate veya yaşlı\nhastalar) genellikle reversibl olmak üzere akut böbrek yetmezliği için artan bir risk söz\nkonusudur. Bu nedenle, özellikle yaşlı hastalar olmak üzere böbrek yetmezliği olan hastalara bu\nkombinasyon dikkatli uygulanmalıdır. Kombinasyon tedavisi başladıktan sonra ve tedavi\nsırasında düzenli aralıklarla hastalar yeterli şekilde hidrate edilmeli ve böbrek fonksiyonu\nkontrol edilmelidir (bkz. bölüm 4.4).\nDiüretikler (tiyazid, tiyazid benzeri diüretikler ve kıvrım diüretikleri) ayrıca, NSAİhlerin\nnefrotoksisite riskini (arttırabilir. NSAİİ'ler, muhtemelen prostaglandin o sentezinin\ninhibisyonundan dolayı furosemid ve bumetanidin diüretik etkisini giderebilmektedir. Ayrıca\ntiyazidlerin antihipertansif etkisini de azaltabilmektedir.\nAminoglikozitler: NSAİİ'ler aminoglikozitlerin atılımını azaltabilir (özellikle preterm\nbebeklerde).\nLityum: İbuprofen, lityum serum seviyelerinin azalması sonucunda lityumun renal klerensini\ndüşürmektedir. Serum lityum seviyeleri sık şekilde kontrol edilmedikçe ve lityum dozunda olası\nbir azaltma yapılmadıkça bu kombinasyonun uygulanmasından kaçınılmalıdır. NSAİİ'ler,\nlityum eliminasyonunu azaltabilirler.\nSelektif serotonin geri-alım inhibitörleri, SSRI (örn: paroksetin, fluoksetin, sertralin): SSRPler\nve NSAİİ'lerin her ikisi de, örneğin gastrointestinal kanaldan kaynaklanan, kanama riskinde\nartışa neden olmaktadır. Bu risk kombinasyon tedavi durumunda artmaktadır. Söz konusu\nmekanizma muhtemelen, serotonin trombositlerdeki geri alımının azalması ile ilişkilendirilebilir\n(bkz. bölüm 4.4).\nSiklosporin: Prostasiklinin böbrekteki azalan sentezinden dolayı, NSAİİ'ler ve siklosporinin\neşzamanlı uygulamasının artan neftotoksisite riskine neden olduğu düşünülmektedir. Bu\nnedenle, böbrek fonksiyonu kombinasyon tedavisi durumunda yakın şekilde izlenmelidir.\nKaptopril : Deneysel çalışmalar, ibuprofenin, kaptoprilin sodyum atılımına olan etkisine ters\nyönde etki ettiğini göstermektedir.\nKolestiramin : İbuprofen ile kolestiraminin eşzamanlı uygulaması, ibuprofen absorpsiyonunu\ngeciktirmekte ve azaltmaktadır (9625 oranında). Bu ilaçlar en az 2 saat arayla alınmalıdır.\nTakrolimus: NSAİİ'ler takrolimus ile beraber verildiğinde nefrotoksisite riskinde olası bir artış\nbeklenebilir. Prostasiklinin böbrekteki azalan sentezinden dolayı, NSAİİ'ler ve takrolimusun\neşzamanlı uygulamasının artan nefrotoksisite riskine neden olduğu düşünülmektedir. Bu\nnedenle, böbrek fonksiyonu kombinasyon tedavisi durumunda yakın şekilde izlenmelidir.\nMetotreksat: Özellikle böbrek yetmezliği olan hastalarda metotreksat ile yapılan düşük dozlu\ntedavi ile ilişkili olarak NSAİİ'ler ve metotreksat arasındaki potansiyel etkileşim riski göz önüne\nalınmalıdır. Kombinasyon tedavinin uygulanması halinde böbrek fonksiyonu izlenmelidir.\nMetotreksatın plazma seviyelerindeki artışın sonucu olarak toksisite meydana gelebileceği için,\n24 saat içinde hem NSAİİ hem de metotreksat verilmesi halinde dikkatli olunmalıdır.\nKortikosteroidler: NSAİİ'ler ile gastrointestinal ülserasyon veya kanama riskinde artış.\nAntitrombositik ajanlar (örn. klopidogrel): NSAİİ'ler ile gastrointestinal kanama riskinde artış\ngörülebilir.\nCYP2C9 İnhibitörleri : İbuprofenin, CYP2C9 inhibitörleri ile birlikte uygulanması, ibuprofene\n(CYP2C9 sübstratı) maruziyeti arttırabilir. Vorikonazol ve flukonazol (CYP2C9 inhibitörleri) ile\nyapılan bir çalışmada, yaklaşık 9080-100 oranında artmış bir S(M)-ibuprofen maruziyeti\ngösterilmiştir. Özellikle yüksek dozdaki ibuprofenin vorikonazol veya flukonazol gibi potent\nCYP2C9 inhibitörleri ile birlikte uygulanması durumunda, ibuprofen dozunun düşürülmesi\ndüşünülmelidir.\nBitkisel ekstreler: Ginkgo biloba, NSAİİ kullanımına bağlı kanama riskini potansiyalize edebilir.\nKinolon türevi antibiyotikler: Deney hayvanlarından elde edilen veriler, NSAİİlerin, kinolon\nantibiyotikleriyle ilişkili konvülsiyon riskini artırabileceğine işaret etmektedir. NSAİİ ve\nkinolonları birlikte alan hastalarda konvülsiyon gelişme riski artabilir.\nEtkileşim çalışmaları yalnızca erişkinlerde yapılmıştır.",
+  "interactions_chars": 7222,
+  "seconds": 39.82,
+  "kt_active_line": "İbuprofen'dir.\nHer 5 m'lik ölçek, 100 mg ibuprofen içerir.\n* Yardımcı maddeler: Şeker, “o 70 sorbitol çözeltisi, gliserin, kaolin, agar, sodyum benzoat,\nsitrik asit monohidrat, polisorbat, metil hidroksibenzoat, propil hidroksibenzoat, günbatımı\nsarısı (E110), portakal aroması, saf su.\nBu ilacı kullanmaya başlamadan önce bu KULLANMA TALİMATINI\ndikkatlice okuyunuz, çünkü sizin için önemli bilgiler ",
+  "kt_excipient_line": "Şeker, “o 70 sorbitol çözeltisi, gliserin, kaolin, agar, sodyum benzoat, sitrik asit monohidrat, polisorbat, metil hidroksibenzoat, propil hidroksibenzoat, günbatımı sarısı (E110), portakal aroması, saf su.",
+  "kt_stats": {
+    "pages": 10,
+    "chars": 22827,
+    "chars_per_page": 2283,
+    "images": 20,
+    "tables_detected": 0,
+    "likely_scanned": true,
+    "ocr_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "removed_header_footer_patterns": []
+  },
+  "sample_id": "S12"
+}

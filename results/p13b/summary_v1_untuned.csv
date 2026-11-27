@@ -1,0 +1,11 @@
+﻿field,documents,correct,partial,wrong,success_rate_pct,usable_incl_partial_pct
+product_name,16,14,0,2,88,88
+active_ingredients_strength,16,5,3,8,31,50
+strength_basis,16,5,0,11,31,31
+known_effect_excipients,16,4,3,9,25,44
+pharmaceutical_form,16,5,0,11,31,31
+route,16,14,0,2,88,88
+excipients,16,15,0,1,94,94
+contraindications_section,16,15,0,1,94,94
+contraindication_items_split,16,11,0,5,69,69
+interactions_section,16,0,0,16,0,0

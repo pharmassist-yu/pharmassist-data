@@ -1,0 +1,87 @@
+{
+  "file": "S05_KUB.pdf",
+  "sha256": "fb48912672261414455678f4a59e3089f3ba2c11e2987b7c254cc5a62e16832f",
+  "stats": {
+    "pages": 10,
+    "chars": 20717,
+    "chars_per_page": 2072,
+    "images": 0,
+    "tables_detected": 0,
+    "likely_scanned": false,
+    "ocr_pages": [],
+    "removed_header_footer_patterns": [
+      "#"
+    ]
+  },
+  "sections_found": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "4.1",
+    "4.2",
+    "4.3",
+    "4.4",
+    "4.5",
+    "4.6",
+    "4.7",
+    "4.8",
+    "4.9",
+    "5",
+    "6",
+    "6.1",
+    "6.2",
+    "6.3",
+    "7"
+  ],
+  "sections_missing": [],
+  "product_name": "PAROL® 200 mg Supozituvar",
+  "active_block": "Parasetamol 200 mg",
+  "per_basis": "PER_UNIT_DOSE (1 supozituvar)",
+  "actives": [
+    {
+      "name_raw": "Parasetamol",
+      "strength_value": "200",
+      "strength_unit": "mg",
+      "per": null,
+      "salt_or_equivalence_note": null,
+      "line": "Parasetamol 200 mg"
+    }
+  ],
+  "known_effect_excipients": [],
+  "pharmaceutical_form": "supozituvar",
+  "form_source": "product name (KÜB 3 has description only)",
+  "routes": [
+    "RECTAL"
+  ],
+  "route_source": "KÜB 4.2 Uygulama şekli",
+  "excipients": [
+    "Titriplex III (EDTA)",
+    "Massupol 15"
+  ],
+  "contraindications_text": "• Parasetamole veya bölüm 6.1’de listelenen yardımcı maddelerden herhangi birine karşı aşırı\nduyarlılığı olanlarda\n• Şiddetli karaciğer yetmezliği olanlarda (Child-Pugh kategorisi >9)\n• Şiddetli böbrek yetmezliği olanlarda\n• Parasetamol içeren başka bir ilaç kullananlarda kontrendikedir.",
+  "contraindication_items": [
+    "Parasetamole veya bölüm 6.1’de listelenen yardımcı maddelerden herhangi birine karşı aşırı duyarlılığı olanlarda",
+    "Şiddetli karaciğer yetmezliği olanlarda (Child-Pugh kategorisi >9)",
+    "Şiddetli böbrek yetmezliği olanlarda",
+    "Parasetamol içeren başka bir ilaç kullananlarda kontrendikedir."
+  ],
+  "interactions_text": "Propantelin gibi, gastrik boşalmada gecikmeye yol açan ilaçlar veya mide boşalmasını yavaşlatan\netkenler, parasetamolün daha yavaş absorbe edilmesine ve dolayısıyla, parasetamolün etki\nbaşlangıcında bir gecikmeye neden olabilirler.\nMetoklopramid gibi, gastrik boşalmanın hızlanmasına yol açan ilaçlar veya mide boşalmasını\nhızlandıran etkenler, parasetamolün daha hızlı absorbe edilmesine ve dolayısıyla, parasetamolün\netki başlangıcında bir hızlanmaya neden olabilirler.\nBazı hipnotikler ve antiepileptik ilaçlar (glutetimid, fenobarbital, fenitoin, karbamazepin, vb.)\nveya rifampisin gibi, karaciğerde hepatik mikrozomal enzim indüksiyonuna sebep olan ilaçların,\ntek başına kullanıldığında zararsız olan parasetamol dozlarıyla bile eş zamanlı kullanılması,\nkaraciğer hasarına yol açabilir. Aşırı alkol tüketimi halinde, terapötik dozlarda olsa bile\nparasetamol alınması da karaciğer hasarına neden olabilir.\nParasetamolün kloramfenikol ile kombinasyon halinde kullanılması, kloramfenikolün yarılanma\nömrünü uzatabilir ve dolayısıyla, bu ilacın toksisite riskini artırabilir.\nParasetamol (veya metabolitleri), K vitamini-bağımlı koagülasyon faktörü sentezinde rol oynayan\nenzimler ile olumsuz yönde ile etkileşebilir. Parasetamol, varfarin veya kumarin türevleri\narasındaki etkileşimler, Uluslararası normalleştirilmiş (International Normalized Ratio, INR)\ndeğerde bir artışa ve kanama riskinde bir artışa neden olabilir. Bundan dolayı, oral antikoagülan\nkullanan hastalar, parasetamolü tıbbi denetim ve kontrol olmadan uzun süreli kullanmamalıdır.\n5-hidroksitriptamin serotonin tip 3 reseptör antagonistleri olan tropisetron ve granisetron,\nfarmakodinamik etkileşim yoluyla, parasetamolün analjezik etkisini tamamen inhibe edebilirler.\nZidovudin (AZT) ile birlikte kullanılan parasetamol, nötropeni oluşum eğilimini artırabilir.\nBundan ötürü, tıbbi tavsiye olmadıkça, parasetamol AZT ile birlikte alınmamalıdır.\nBirden fazla ağrı kesiciyle kombinasyon tedavisinden kaçınılması önerilmektedir. Bunun hastaya\nekstra bir fayda sağladığını gösteren çok az kanıt vardır ve genelde istenmeyen etkilerde artışa\nsebebiyet vermektedir.\nSt. John’s Wort (Hypericum perforatum–sarı kantaron) parasetamolün kan düzeylerini azaltabilir.\nParasetamol, flukloksasilin ile eş zamanlı kullanıldığında dikkatli olunmalıdır, çünkü eş zamanlı\nkullanımın, özellikle risk faktörleri olan hastalarda, piroglutamik asidoz nedeniyle yüksek anyon\naçıklığına sahip metabolik asidozla ilişkili olduğu gösterilmiştir (bkz. bölüm 4.4).",
+  "interactions_chars": 2505,
+  "seconds": 0.58,
+  "kt_active_line": "Bir supozituvar 200 mg parasetamol içerir.\n• Yardımcı maddeler: titriplex III (EDTA), massupol 15\nBu ilacı kullanmaya başlamadan önce bu KULLANMA TALİMATINI dikkatlice\nokuyunuz, çünkü sizin için önemli bilgiler içermektedir.\n• Bu kullanma talimatını saklayınız. Daha sonra tekrar okumaya ihtiyaç duyabilirsiniz.\n• Eğer ilave sorularınız olursa, lütfen doktorunuza veya eczacınıza danışınız.\n• Bu ilaç",
+  "kt_excipient_line": "titriplex III (EDTA), massupol 15",
+  "kt_stats": {
+    "pages": 8,
+    "chars": 15347,
+    "chars_per_page": 1918,
+    "images": 0,
+    "tables_detected": 0,
+    "likely_scanned": false,
+    "ocr_pages": [],
+    "removed_header_footer_patterns": [
+      "#"
+    ]
+  },
+  "sample_id": "S05"
+}
